@@ -5023,3 +5023,6 @@ cite {
   background-color: rgba(255, 255, 255, 0.5); /* Fondo semi-transparente para el título */
 }
 
+.tag-title {
+  margin-bottom: 1em; /* Incrementa la distancia inferior entre los títulos de etiquetas */
+}

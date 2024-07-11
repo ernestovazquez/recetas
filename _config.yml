@@ -54,3 +54,6 @@ collections:
   categories:
     output: true
     permalink: /categories/:name/
+
+  tags:
+    output: true

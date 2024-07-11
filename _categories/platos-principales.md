@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Platos principales
-permalink: /categories/principales/
+permalink: /categories/platos-principales/
 ---
 
 <main class="page-content" aria-label="Content">

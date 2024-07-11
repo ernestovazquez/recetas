@@ -1,39 +1,29 @@
 ---
 layout: default
 title: Categorías
-permalink: /categories/:category/
 ---
 
-<main class="page-content">
-  <section id="tags" class="chapters cf">
-    <div class="wrapper">
-      <h1>Categoría: {{ page.category }}</h1>
+<main class="page-content" aria-label="Content">
+  <section class="recent_box">
+    <div class="post_wrapper">
+      <h2 class="recent_title">Posts en la categoría: {{ page.category }}</h2>
 
-      <div class="post-list">
-        {% for post in site.posts %}
-          {% if post.categories contains page.category %}
-            <div class="post-preview">
-              {% if post.image %}
-                <div class="post-image">
-                  <a href="{{ post.url }}">
-                    <img src="{{ site.baseurl }}/assets/img/{{ post.img }}" alt="{{ post.title }}">
-                  </a>
-                </div>
-              {% endif %}
-              <div class="post-info">
-                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                <p class="post-meta">{{ post.date | date: '%Y, %b %d' }}</p>
-                <p>{{ post.excerpt }}</p>
-              </div>
+      <div class="recent_list">
+        {% for post in site.tags[page.category] %}
+          <a href="{{ post.url | prepend: site.baseurl }}" class="recent_item">
+            <div class="post-thumbnail" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append: post.img }}');">
+              <span class="post-title">{{ post.title }}</span>
             </div>
-          {% endif %}
+          </a>
         {% endfor %}
       </div>
 
-      <div class="back-to-home">
-        <a href="{{ site.baseurl }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Volver</a>
+      <div class="back_to_home">
+        <a href="{{ site.baseurl }}/" class="back-link"><i class="fa fa-long-arrow-left" aria-hidden="true"></i>   Volver</a>
       </div>
     </div>
   </section>
 </main>
+
+{% include footer.html %}
 

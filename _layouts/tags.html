@@ -8,9 +8,6 @@ layout: default
       <h2 class="recent_title">{{ page.title }}</h2>
 
       {% assign tagname = page.tag %}
-      <p>Tag name: {{ tagname }}</p>
-      <p>Number of posts: {{ site.tags[tagname] | size }}</p>
-      
       <div class="recent_list">
         {% for post in site.tags[tagname] %}
           <a href="{{ post.url | prepend: site.baseurl }}" class="recent_item">

@@ -8,8 +8,8 @@ url: "https://recetas.ernestovazquez.es" # the base hostname & protocol for your
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: Ernesto Vázquez # add banner title
+banner-desc: Esto no es una web de cocina # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo

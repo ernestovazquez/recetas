@@ -5,21 +5,25 @@ permalink: /categories/
 ---
 
 <main class="page-content" aria-label="Content">
-  <section class="recent_box">
-    <div class="post_wrapper">
-      <h2 class="recent_title">Categorías</h2>
+  <section class="categories-section">
+    <div class="container">
+      <h2 class="section-title">Categorías</h2>
 
-      <div class="recent_list">
-        <ul class="tag-list">
-          {% for tag in site.tags %}
-            {% assign tag_title = tag[0] | replace: "-", " " | capitalize %}
-            <li><a href="{{ site.baseurl }}/categories/{{ tag[0] }}/">{{ tag_title }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
+      <ul class="category-list">
+        {% for tag in site.tags %}
+          {% assign tag_title = tag[0] | replace: "-", " " | capitalize %}
+          <li class="category-item">
+            <a href="{{ site.baseurl }}/categories/{{ tag[0] }}/" class="category-link">
+              <div class="category-thumbnail" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append: tag[0] | downcase }}.jpg');">
+                <span class="category-title">{{ tag_title }}</span>
+              </div>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
 
       <div class="back_to_home">
-        <a href="{{ site.baseurl }}/" class="back-link"><i class="fa fa-long-arrow-left" aria-hidden="true"></i>   Back</a>
+        <a href="{{ site.baseurl }}/" class="back-link"><i class="fa fa-long-arrow-left" aria-hidden="true"></i>   Volver</a>
       </div>
     </div>
   </section>

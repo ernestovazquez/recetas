@@ -4557,7 +4557,6 @@ cite {
   text-decoration: underline;
 }
 
-
 .category-item {
   margin-bottom: 1em; /* Ajusta el valor según sea necesario para el espaciado vertical */
 }
@@ -4569,17 +4568,23 @@ cite {
 
 .back-link {
   display: inline-block;
-  padding: 0.5em 1em;
-  color: #fff;
-  background-color: #007BFF;
+  padding: 0.5em 1.5em;
+  color: #333;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
   border-radius: 5px;
   text-decoration: none;
   font-size: 1.2em;
-  transition: background-color 0.3s;
+  font-weight: 500;
+  transition: all 0.3s;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .back-link:hover {
-  background-color: #0056b3;
+  background-color: #f0f0f0;
+  border-color: #ccc;
+  color: #000;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
 .about_box {

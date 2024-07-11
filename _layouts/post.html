@@ -28,9 +28,9 @@ layout: default
           <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
         </div>
         <div class="post_tag">
-          <span>Tags:</span>
+          <span>Categoría:</span>
           {% for tag in page.tags %}
-          <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">{{ tag }}</a>
+          <a href="{{site.baseurl}}/categories#{{tag}}" class="tag">{{ tag }}</a>
           {% endfor %}
         </div>
       </footer>

@@ -15,11 +15,11 @@ permalink: /categories/
         <h3 id="{{ tag[0] | cgi_escape }}" class="tag-title">{{ tag[0] }}</h3>
         <div class="recent_list">
           {% for post in tag[1] %}
-            <div class="recent_item" style="background-image: url({{ "/assets/img/" | prepend: site.baseurl | append: post.img }});">
-              <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-                <span>{{ post.title }}</span>
-              </a>
-            </div>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="recent_item">
+              <div class="post-thumbnail" style="background-image: url({{ "/assets/img/" | prepend: site.baseurl | append: post.img }});">
+                <span class="post-title">{{ post.title }}</span>
+              </div>
+            </a>
           {% endfor %}
         </div>
       {% endfor %}

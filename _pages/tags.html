@@ -10,12 +10,12 @@ permalink: /categories/
       <h2 class="section-title categories-title">Categorías</h2>
 
       <ul class="category-list">
-        {% assign tag_order = "Platos-para-compartir, Cafes, Entrantes, Platos-principales, Postres, Sopas" | split: ", " %}
+        {% assign tag_order = "Platos para compartir, Cafes, Entrantes, Platos principales, Postres, Sopas" | split: ", " %}
         {% for tag_name in tag_order %}
           {% assign tag_name_normalized = tag_name | replace: " ", "-" | downcase %}
           {% assign tag = site.tags[tag_name_normalized] %}
           {% if tag %}
-            {% assign tag_title = tag_name | replace: "-", " " | capitalize %}
+            {% assign tag_title = tag_name %}
             {% assign tag_image = tag_name_normalized | append: ".jpg" %}
             <li class="category-item">
               <a href="{{ site.baseurl }}/categories/{{ tag_name_normalized }}/" class="category-link">

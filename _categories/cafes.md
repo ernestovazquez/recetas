@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cafés e infusiones
+title: infes
 permalink: /categories/cafe/
 ---
 

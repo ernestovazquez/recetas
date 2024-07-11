@@ -5020,6 +5020,6 @@ cite {
 .post-title {
   display: block;
   padding: 10px;
-  background-color: rgba(255, 255, 255, 0.3); /* Fondo semi-transparente para el título */
+  background-color: rgba(255, 255, 255, 0.5); /* Fondo semi-transparente para el título */
 }
 

@@ -10,7 +10,7 @@ permalink: /categories/principales/
       <h2 class="recent_title">Platos principales</h2>
 
       <div class="recent_list">
-        {% for post in site.tags['principales'] %}
+        {% for post in site.tags['platos-principales'] %}
           <a href="{{ post.url | prepend: site.baseurl }}" class="recent_item">
             <div class="post-thumbnail" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append: post.img }}');">
               <span class="post-title">{{ post.title }}</span>

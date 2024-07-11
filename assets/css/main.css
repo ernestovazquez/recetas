@@ -5090,3 +5090,7 @@ cite {
 .category-title:hover {
   background-color: rgba(255, 255, 255, 0.7);
 }
+
+.categories-title {
+  margin-bottom: 20px; /* Ajusta este valor según el espacio deseado */
+}

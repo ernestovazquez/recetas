@@ -3961,6 +3961,25 @@ cite {
   font-weight: 400;
 }
 
+
+.logo-container {
+  display: flex; /* Utilizamos flexbox para alinear elementos */
+  align-items: center; /* Alineamos verticalmente al centro */
+}
+
+.logo img {
+  max-width: 100px; /* Tamaño máximo para la imagen del logo */
+  height: auto; /* Para mantener la proporción */
+  margin-right: 10px; /* Espacio entre la imagen y el texto */
+}
+
+.logo-text {
+  font-size: 1.2em; /* Tamaño de fuente del texto */
+  font-weight: bold; /* Negrita */
+  display: inline-block; /* Convertimos en bloque para ajustar verticalmente */
+  vertical-align: middle; /* Alineamos verticalmente al centro */
+}
+
 .main_header nav a {
   color: #ffffff;
   text-decoration: none;

@@ -7,26 +7,19 @@ layout: default
     <div class="post_wrapper">
       <h2 class="recent_title">{{ page.title }}</h2>
 
-      <!-- Sección de depuración temporal para verificar las etiquetas -->
-      <div>
-        <h3>Available Tags:</h3>
-        <ul>
-          {% for tag in site.tags %}
-            <li>{{ tag[0] }} - {{ tag[1].size }} posts</li>
-          {% endfor %}
-        </ul>
-      </div>
-      <!-- Fin de la sección de depuración -->
-
       {% assign tagname = page.tag %}
       <div class="recent_list">
-        {% for post in site.tags[tagname] %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="recent_item">
-            <div class="post-thumbnail" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append: post.img }}');">
-              <span class="post-title">{{ post.title }}</span>
-            </div>
-          </a>
-        {% endfor %}
+        {% if site.tags[tagname] %}
+          {% for post in site.tags[tagname] %}
+            <a href="{{ post.url | prepend: site.baseurl }}" class="recent_item">
+              <div class="post-thumbnail" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append: post.img }}');">
+                <span class="post-title">{{ post.title }}</span>
+              </div>
+            </a>
+          {% endfor %}
+        {% else %}
+          <p>No posts found for tag: {{ tagname }}</p>
+        {% endif %}
       </div>
 
       <div class="back_to_home">

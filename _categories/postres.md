@@ -7,10 +7,10 @@ permalink: /categories/postres/
 <main class="page-content" aria-label="Content">
   <section class="recent_box">
     <div class="post_wrapper">
-      <h2 class="recent_title">Postre</h2>
+      <h2 class="recent_title">Postres</h2>
 
       <div class="recent_list">
-        {% for post in site.tags['postre'] %}
+        {% for post in site.tags['postres'] %}
           <a href="{{ post.url | prepend: site.baseurl }}" class="recent_item">
             <div class="post-thumbnail" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append: post.img }}');">
               <span class="post-title">{{ post.title }}</span>

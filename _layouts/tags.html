@@ -7,6 +7,17 @@ layout: default
     <div class="post_wrapper">
       <h2 class="recent_title">{{ page.title }}</h2>
 
+      <!-- Sección de depuración temporal para verificar las etiquetas -->
+      <div>
+        <h3>Available Tags:</h3>
+        <ul>
+          {% for tag in site.tags %}
+            <li>{{ tag[0] }} - {{ tag[1].size }} posts</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <!-- Fin de la sección de depuración -->
+
       {% assign tagname = page.tag %}
       <div class="recent_list">
         {% for post in site.tags[tagname] %}

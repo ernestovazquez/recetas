@@ -5,39 +5,36 @@ permalink: /categories/
 ---
 
 <main class="page-content">
-  <section class="chapters cf">
+  <section id="tags" class="chapters cf">
     <div class="wrapper">
       <h1>Categorías</h1>
 
-      {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-        {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-        
-        <article class="post">
-          <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
+      {% for tag in site.tags %}
+        <article class="category">
+          <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
           
           <div class="post-list">
-            {% for post in site.tags[this_word] %}
+            {% for post in tag[1] %}
               <div class="post-preview">
                 {% if post.image %}
                   <div class="post-image">
                     <a href="{{ post.url }}">
-                      <img src="{{ site.baseurl }}{{ post.image }}" alt="{{ post.title }}">
+                      <img src="{{ site.baseurl }}/assets/img/{{ post.img }}" alt="{{ post.title }}">
                     </a>
                   </div>
                 {% endif %}
                 <div class="post-info">
                   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                  <p>{{ post.date | date_to_string }}</p>
+                  <p class="post-meta">{{ post.date | date: '%Y, %b %d' }}</p>
                   <p>{{ post.excerpt }}</p>
                 </div>
               </div>
             {% endfor %}
           </div>
         </article>
-        
-      {% endunless %}{% endfor %}
+      {% endfor %}
 
-      <div class="back_to_home">
+      <div class="back-to-home">
         <a href="{{ site.baseurl }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Volver</a>
       </div>
     </div>

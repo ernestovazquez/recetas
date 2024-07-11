@@ -9,20 +9,14 @@ permalink: /categories/
     <div class="post_wrapper">
       <h2 class="recent_title">Categorías</h2>
 
-      {% assign sorted_tags = site.tags | sort %}
-
-      {% for tag in sorted_tags %}
-        <h3 id="{{ tag[0] | cgi_escape }}" class="tag-title">{{ tag[0] }}</h3>
-        <div class="recent_list">
-          {% for post in tag[1] %}
-            <a href="{{ post.url | prepend: site.baseurl }}" class="recent_item">
-              <div class="post-thumbnail" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append: post.img }}');">
-                <span class="post-title">{{ post.title }}</span>
-              </div>
-            </a>
+      <div class="recent_list">
+        <ul class="tag-list">
+          {% for tag in site.tags %}
+            {% assign tag_name = tag[0] | replace: " ", "-" | downcase %}
+            <li><a href="{{ site.baseurl }}/categories/{{ tag_name }}/">{{ tag[0] }}</a></li>
           {% endfor %}
-        </div>
-      {% endfor %}
+        </ul>
+      </div>
 
       <div class="back_to_home">
         <a href="{{ site.baseurl }}/" class="back-link"><i class="fa fa-long-arrow-left" aria-hidden="true"></i>   Back</a>
@@ -32,3 +26,4 @@ permalink: /categories/
 </main>
 
 {% include footer.html %}
+

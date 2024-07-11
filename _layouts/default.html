@@ -3,10 +3,72 @@
 {% include head.html %}
 <body>
 
-  {{ content }}
+<header class="main_header">
+  <a href="{{site.baseurl}}/" class="logo">{% if site.logo %}<img src="{{site.logo}}" alt="Logo">{{ else %}B<span>ef</span>{% endif %}</a>
+  <nav class="main_menu">
+    <a href="{{site.baseurl}}/about/">About</a>
+  </nav>
 
-  {% include arrow_top.html %}
-  {% include javascripts.html %}
-  {% include analytics.html %}
+  <!-- Formulario de búsqueda -->
+  <form id="search-form" action="{{ site.baseurl }}/search.html" method="get" class="search-form">
+    <input type="text" id="search-input" name="query" placeholder="Buscar en el sitio...">
+    <button type="submit" class="search-button">Buscar</button>
+  </form>
+</header> <!-- End Section Header -->
+
+<div class="content_wrapper">
+  {{ content }}
+</div>
+
+{% include arrow_top.html %}
+{% include javascripts.html %}
+
+<!-- Script para manejar la búsqueda -->
+<script src="{{ site.baseurl }}/assets/js/lunr.min.js"></script>
+<script>
+  (function() {
+    var idx = lunr(function () {
+      this.field('id');
+      this.field('title', { boost: 10 });
+      this.field('categories');
+      this.field('content');
+
+      {% assign search_index = site.pages | where: "searchable", true %}
+      {% for page in search_index %}
+        this.add({
+          'id': '{{ page.url }}',
+          'title': '{{ page.title | escape }}',
+          'categories': '{{ page.categories | join: ", " }}',
+          'content': '{{ page.content | strip_html | strip_newlines | escape }}'
+        });
+      {% endfor %}
+    });
+
+    var searchResults = document.getElementById('search-results');
+
+    function displayResults(results) {
+      if (results.length) {
+        var appendString = '';
+        for (var i = 0; i < results.length; i++) {
+          var item = results[i];
+          appendString += '<li><a href="' + item.ref + '">' + item.title + '</a></li>';
+        }
+        searchResults.innerHTML = appendString;
+      } else {
+        searchResults.innerHTML = '<li>No se encontraron resultados</li>';
+      }
+    }
+
+    var searchTerm = new URLSearchParams(window.location.search).get('query');
+    if (searchTerm) {
+      document.getElementById('search-input').setAttribute("value", searchTerm);
+      var results = idx.search(searchTerm);
+      displayResults(results);
+    }
+  })();
+</script>
+
+{% include analytics.html %}
 </body>
 </html>
+

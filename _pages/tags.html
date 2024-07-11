@@ -16,19 +16,21 @@ permalink: /tags/
       </ul>
 
       {% for tag in sorted_tags %}
-        <h2 id="{{ tag[0] | cgi_escape }}">{{ tag[0] }}</h2>
+        <h2 id="{{ tag[0] | cgi_escape }}" class="tag-title">{{ tag[0] }}</h2>
         {% for post in tag[1] %}
-          <div class="tag_list">
-            <span><a href="{{ post.url }}">{{ post.title }}</a></span>
-            <small><span>{{ post.date | date_to_string }}</span></small>
+          <div class="tag-post">
+            <span><a href="{{ post.url }}" class="post-title">{{ post.title }}</a></span>
+            <small><span class="post-date">{{ post.date | date_to_string }}</span></small>
           </div>
         {% endfor %}
       {% endfor %}
 
       <div class="back_to_home">
-        <a href="{{site.baseurl}}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back</a>        
+        <a href="{{site.baseurl}}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back</a>
       </div>
     </div>
   </section>
 </main>
+
+{% include footer.html %}
 

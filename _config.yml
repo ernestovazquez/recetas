@@ -54,3 +54,11 @@ collections:
   categories:
     output: true
     permalink: /categories/:name/
+
+tag_order:
+  - Platos-principales
+  - Platos-para-compartir
+  - Postres
+  - Entrantes
+  - Sopas
+  - Cafes

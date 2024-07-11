@@ -4453,7 +4453,7 @@ cite {
   display: inline-block;
   width: 31%;
   margin-left: 1.5%;
-  margin-bottom: 1.5%;
+  margin-bottom: 3%;
   height: 200px;
   background-position: center;
   background-size: cover;
@@ -5024,5 +5024,5 @@ cite {
 }
 
 .tag-title {
-  margin-bottom: 22em; /* Incrementa la distancia inferior entre los títulos de etiquetas */
+  margin-bottom: 1em; /* Incrementa la distancia inferior entre los títulos de etiquetas */
 }

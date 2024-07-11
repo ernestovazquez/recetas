@@ -3,35 +3,14 @@ layout: default
 title: Tags
 permalink: /tags/
 ---
-{% include header.html %}
+  {% include header.html %}
 
-<main class="page-content">
-  <section id="tags" class="chapters">
-    <div class="container">
-      <h1 class="page-heading">Tags in Blog</h1>
-      <ul class="tag-list">
-        {% assign sorted_tags = site.tags | sort %}
-        {% for tag in sorted_tags %}
-          <li><a href="#{{ tag[0] | cgi_escape }}" class="tag-link">{{ tag[0] }} <span>({{ tag[1] | size }})</span></a></li>
-        {% endfor %}
-      </ul>
-
-      {% for tag in sorted_tags %}
-        <h2 id="{{ tag[0] | cgi_escape }}" class="tag-heading">{{ tag[0] }}</h2>
-        {% for post in tag[1] %}
-          <div class="tag-post">
-            <a href="{{ post.url }}" class="post-link">{{ post.title }}</a>
-            <span class="post-date">{{ post.date | date_to_string }}</span>
-          </div>
-        {% endfor %}
-      {% endfor %}
-
-      <div class="back_to_home">
-        <a href="{{site.baseurl}}/" class="back-link"><i class="fas fa-long-arrow-alt-left"></i> Back</a>
+  <main class="page-content" aria-label="Content">
+  <section class="chapters cf">
+      <div class="wrapper flex-row">
+      {{ content }}
       </div>
-    </div>
   </section>
-</main>
+  </main>
 
-{% include footer.html %}
-
+  {% include footer.html %}

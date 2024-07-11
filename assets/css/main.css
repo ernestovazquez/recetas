@@ -4544,7 +4544,7 @@ cite {
 
 #tags .back_to_home {
   text-align: center;
-  margin-top: 4rem;
+  margin-top: 2em;
 }
 
 #tags .back_to_home a {
@@ -4555,6 +4555,31 @@ cite {
 
 #tags .back_to_home a:hover {
   text-decoration: underline;
+}
+
+
+.category-item {
+  margin-bottom: 1em; /* Ajusta el valor según sea necesario para el espaciado vertical */
+}
+
+.back_to_home {
+  margin-top: 2em; /* Espacio adicional arriba */
+  text-align: center; /* Centrar el botón */
+}
+
+.back-link {
+  display: inline-block;
+  padding: 0.5em 1em;
+  color: #fff;
+  background-color: #007BFF;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 1.2em;
+  transition: background-color 0.3s;
+}
+
+.back-link:hover {
+  background-color: #0056b3;
 }
 
 .about_box {

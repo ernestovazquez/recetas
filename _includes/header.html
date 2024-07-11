@@ -1,7 +1,13 @@
-
 <header class="main_header">
-  <a href="{{site.baseurl}}/" class="logo">{% if site.logo %}{{site.logo}}{% else %}B<span>ef</span>{% endif %}</a>
+  <a href="{{site.baseurl}}/" class="logo">{% if site.logo %}<img src="{{site.logo}}" alt="Logo">{{ else %}B<span>ef</span>{% endif %}</a>
   <nav class="main_menu">
     <a href="{{site.baseurl}}/about/">About</a>
   </nav>
+
+  <!-- Formulario de búsqueda -->
+  <form id="search-form" action="/search.html" method="get" class="search-form">
+    <input type="text" id="search-input" name="query" placeholder="Buscar en el sitio...">
+    <button type="submit" class="search-button">Buscar</button>
+  </form>
 </header> <!-- End Section Header -->
+

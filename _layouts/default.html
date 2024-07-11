@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-{% include head.html %}
+  {% include head.html %}
 <body>
 
 <header class="main_header">
@@ -24,6 +24,21 @@
 
 <div class="content_wrapper">
   {{ content }}
+
+  <!-- Inclusión del archivo 'no-linenos.html' -->
+  {% capture code_content %}
+    <pre class="lineno">
+      <!-- Ejemplo de bloque de código con números de línea -->
+      <code>
+        // Tu código aquí
+        function myFunction() {
+          return "Hello World!";
+        }
+      </code>
+    </pre>
+  {% endcapture %}
+  
+  {% include no-linenos.html content=code_content %}
 </div>
 
 {% include arrow_top.html %}

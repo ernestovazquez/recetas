@@ -1,0 +1,11 @@
+<!-- Archivo 'no-linenos.html' para manipular contenido sin números de línea en Jekyll -->
+
+{% assign content = include.content %}
+
+{% if content contains '<pre class="lineno">' %}
+  {% assign content = content | replace: '<pre class="lineno">', '<!-- <pre class="lineno">' %}
+  {% assign content = content | replace: '</pre>', '</pre> -->' %}
+{% endif %}
+
+{{ content }}
+

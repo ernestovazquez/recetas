@@ -20,7 +20,7 @@ permalink: /categories/bebidas-calientes/
       </div>
 
       <div class="back_to_home">
-        <a href="{{ site.baseurl }}/" class="back-link"><i class="fa fa-long-arrow-left" aria-hidden="true"></i>   Back</a>
+        <a href="{{ site.baseurl }}/categories/" class="back-link"><i class="fa fa-long-arrow-left" aria-hidden="true"></i>   Back</a>
       </div>
     </div>
   </section>

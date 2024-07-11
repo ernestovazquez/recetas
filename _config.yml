@@ -4,7 +4,6 @@ description: > # this means to ignore newlines until "baseurl:"
   Que viva la comida
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-baseurlcategories: "https://recetas.ernestovazquez.es/categories/"
 url: "https://recetas.ernestovazquez.es" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings

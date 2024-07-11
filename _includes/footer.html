@@ -1,13 +1,8 @@
-
-<footer class="d-flex w-100 justify-content-center">
-  <div class="d-flex justify-content-between align-items-center">
-    <div class="footer-left">
-      <p class="mb-0">
-        {% include social_footer.html %}
-        <div class="copyright">
-          <p>&copy; {{site.time | date: '%Y'}} All rights reserved. Design by <a href="https://github.com/ernestovazquez" target="_blank">Ernesto Vázquez García</a></p>
-        </div>
-      </p>
+<footer class="main_footer">
+  <div class="wrapper">
+    {% include social_footer.html %}
+    <div class="copyright">
+      <p>&copy; {{site.time | date: '%Y'}} All rights reserved. Design by <a href="https://github.com/ernestovazquez" target="_blank">Ernesto Vázquez García</a></p>
     </div>
 
     <div class="footer-right">
@@ -17,6 +12,6 @@
         <a href="https://ernestovazquez.es/politica-de-cookies/">Política de Cookies</a>
       </p>
     </div>
+  </div>
 
-  </div> <!-- div.d-flex -->
-</footer>
+</footer> <!-- End Section Footer -->

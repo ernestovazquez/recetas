@@ -1,50 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
+{% include head.html %}
 <body>
 
-<header class="main_header">
-  <a href="{{ site.baseurl }}/" class="logo">
-    {% if site.logo %}
-      <img src="{{ site.logo }}" alt="Logo">
-    {% else %}
-      B<span>ef</span>
-    {% endif %}
-  </a>
-  <nav class="main_menu">
-    <a href="{{ site.baseurl }}/about/">About</a>
-  </nav>
-
-  <!-- Formulario de búsqueda -->
-  <form id="search-form" action="{{ site.baseurl }}/search.html" method="get" class="search-form">
-    <input type="text" id="search-input" name="query" placeholder="Buscar en el sitio...">
-    <button type="submit" class="search-button">Buscar</button>
-  </form>
-</header> <!-- End Section Header -->
-
-<div class="content_wrapper">
   {{ content }}
 
-  <!-- Inclusión del archivo 'no-linenos.html' -->
-  {% capture code_content %}
-    <pre class="lineno">
-      <!-- Ejemplo de bloque de código con números de línea -->
-      <code>
-        // Tu código aquí
-        function myFunction() {
-          return "Hello World!";
-        }
-      </code>
-    </pre>
-  {% endcapture %}
-  
-  {% include no-linenos.html content=code_content %}
-</div>
-
-{% include arrow_top.html %}
-{% include javascripts.html %}
-{% include analytics.html %}
-
+  {% include arrow_top.html %}
+  {% include javascripts.html %}
+  {% include analytics.html %}
 </body>
 </html>
-

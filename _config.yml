@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://recetas.ernestovazquez.es" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: cocina.mp4 # add banner video. Add your video file to the folder video
+video: cocina2.mp4 # add banner video. Add your video file to the folder video
 banner-title: Ernesto Vázquez # add banner title
 banner-desc: Esto no es una web de cocina # add banner description
 

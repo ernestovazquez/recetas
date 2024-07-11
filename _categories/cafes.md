@@ -1,7 +1,7 @@
 ---
 layout: default
-title: infes
-permalink: /categories/cafe/
+title: Cafés e infusiones
+permalink: /categories/cafes/
 ---
 
 <main class="page-content" aria-label="Content">
@@ -10,7 +10,7 @@ permalink: /categories/cafe/
       <h2 class="recent_title">Cafés e infusiones</h2>
 
       <div class="recent_list">
-        {% for post in site.tags['cafe'] %}
+        {% for post in site.tags['cafes'] %}
           <a href="{{ post.url | prepend: site.baseurl }}" class="recent_item">
             <div class="post-thumbnail" style="background-image: url('{{ "/assets/img/" | prepend: site.baseurl | append: post.img }}');">
               <span class="post-title">{{ post.title }}</span>

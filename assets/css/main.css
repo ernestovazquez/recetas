@@ -5107,9 +5107,7 @@ cite {
 .logo-container {
   display: flex;
   align-items: center;
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
+  margin-right: auto; /* Margen a la derecha para separar de main_menu */
 }
 
 .logo {
@@ -5125,9 +5123,7 @@ cite {
 .main_menu {
   display: flex;
   list-style: none;
-  position: absolute;
-  right: 50%;
-  transform: translateX(50%);
+  margin-left: auto; /* Margen a la izquierda para separar de logo-container */
 }
 
 .nav-item {

@@ -4,7 +4,7 @@ layout: post
 title: The quick brown fox jumps over a lazy dog
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: ![blueberries-4211525_1920](https://github.com/user-attachments/assets/8e392428-185e-4e5b-89e0-f6b1e7b1635e)
+image: https://github.com/user-attachments/assets/63d6d7b4-7886-4781-a755-2056e0e438d9
 category: css
 tags:
   - css

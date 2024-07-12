@@ -1,8 +1,8 @@
 <ul>
-  {% assign categories = site.static_files | where_exp: "file", "file.path contains '/category/'" %}
+  {% assign categories = site.pages | where_exp: "page", "page.path contains '/category/'" %}
   {% for category in categories %}
     {% assign category_name = category.path | split: '/' | last | split: '.' | first %}
-    <li><a href="/category/{{ category_name }}">{{ category_name | capitalize }}</a></li>
+    <li><a href="{{ category.url }}">{{ category_name | capitalize }}</a></li>
   {% endfor %}
 </ul>
 

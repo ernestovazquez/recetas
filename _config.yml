@@ -90,6 +90,9 @@ plugins:
   - jekyll-paginate
   - jekyll-paginate-content
 
+include:
+  - category
+
 # Exclude my node related stuff
 exclude: [
   'package.json',

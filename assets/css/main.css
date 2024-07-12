@@ -3930,15 +3930,6 @@ cite {
   clear: both;
 }
 
-.main_header {
-  padding: 1rem 2rem; /* Reducir padding superior e inferior */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #1c1c1c;
-  z-index: 1;
-}
-
 .main_header .logo {
   color: #ffffff;
   margin: 0;
@@ -3952,16 +3943,6 @@ cite {
   font-weight: 400;
 }
 
-
-.logo-container {
-  display: flex; /* Utilizamos flexbox para alinear elementos */
-  align-items: center; /* Alineamos verticalmente al centro */
-  margin-right: auto;
-}
-
-.logo {
-  margin-right: 5px; /* Ajuste el margen derecho para juntar más los elementos */
-}
 
 .logo img {
   max-width: 50px; /* Tamaño máximo para la imagen del logo */
@@ -3979,33 +3960,6 @@ cite {
   list-style: none;
   margin: 0;
   padding: 0;
-}
-
-.nav-item {
-  margin-left: 15px; /* Ajuste el margen izquierdo para juntar más los elementos */
-}
-
-.nav-link {
-  font-size: 1em;
-  color: #fff;
-  text-decoration: none;
-  padding: 5px 10px;
-  border-radius: 5px;
-  transition: all 0.3s ease;
-}
-
-/* Añadir un efecto hover para los enlaces de navegación */
-.nav-link:hover {
-  background-color: #ff6347; /* Color de fondo al pasar el mouse */
-  color: #ffffff; /* Color del texto al pasar el mouse */
-}
-
-.logo-text {
-  font-size: 1.3em; /* Tamaño de fuente del texto */
-  font-weight: bold; /* Negrita */
-  display: inline-block; /* Convertimos en bloque para ajustar verticalmente */
-  vertical-align: middle; /* Alineamos verticalmente al centro */
-  color: #fff;
 }
 
 .main_header nav a {
@@ -5139,3 +5093,54 @@ cite {
   background-color: #ff6347; /* Cambia el color de fondo al pasar el mouse */
   color: #ffffff;           /* Cambia el color del texto al pasar el mouse */
 }
+
+.main_header {
+  padding: 2rem 2rem; /* Ajusta el padding vertical y horizontal */
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center;
+  background-color: #1c1c1c;
+  z-index: 1;
+  position: relative;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.logo {
+  margin-right: 10px; /* Ajusta el espacio entre el logo y el texto */
+}
+
+.logo-text {
+  color: #fff; /* Color del texto */
+  font-size: 1.5rem; /* Tamaño del texto */
+  font-weight: bold; /* Grosor del texto */
+}
+
+.main_menu {
+  display: flex;
+  list-style: none;
+  position: absolute;
+  right: 50%;
+  transform: translateX(50%);
+}
+
+.nav-item {
+  margin-left: 20px; /* Ajusta el espacio entre los enlaces de navegación */
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+

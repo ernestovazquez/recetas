@@ -4439,6 +4439,8 @@ cite {
 .recent_box .recent_list .recent_item {
   position: relative;
   display: inline-block;
+  background-color: transparent;
+  padding: 0;
   width: 31%;
   margin-left: 2%;
   margin-bottom: 3.5%;
@@ -5147,3 +5149,18 @@ cite {
   text-decoration: underline;
 }
 
+article.post {
+    background-color: transparent; /* Asegura que el fondo del artículo sea transparente */
+    padding: 0; /* Elimina cualquier relleno interno para que el contenido se ajuste al borde */
+}
+
+section.recent_box {
+    background-color: transparent; /* Asegura que el fondo de la sección de publicaciones recientes sea transparente */
+    margin-top: 2rem; /* Ajusta el margen superior según sea necesario */
+    padding: 0; /* Elimina cualquier relleno interno para que el contenido se ajuste al borde */
+}
+
+div.recent_list {
+    background-color: transparent; /* Asegura que el fondo de la lista de publicaciones recientes sea transparente */
+    padding: 0; /* Elimina cualquier relleno interno para que el contenido se ajuste al borde */
+}

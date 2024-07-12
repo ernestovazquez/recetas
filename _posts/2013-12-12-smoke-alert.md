@@ -7,10 +7,6 @@ image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0v
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 category: entrantes
-tags:
-  - jekyll
-  - wordpress
-  - blog
 author: ernestovazquez
 ---
 

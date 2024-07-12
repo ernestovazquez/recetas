@@ -7,9 +7,6 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 image: https://github.com/user-attachments/assets/c9fda0b7-893c-490e-9b9a-2ee3e158b58b
 optimized_image: https://github.com/user-attachments/assets/c9fda0b7-893c-490e-9b9a-2ee3e158b58b
 category: platos-principales
-tags:
-  - languages
-  - tips
 author: ernestovazquez
 ---
 

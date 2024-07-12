@@ -7,9 +7,6 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
 category: sopas
-tags:
-  - life
-  - tips
 author: ernestovazquez
 ---
 

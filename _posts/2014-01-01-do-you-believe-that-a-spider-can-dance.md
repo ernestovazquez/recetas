@@ -7,9 +7,6 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 category: sopas
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
-tags:
-  - fate
-  - travel
 author: ernestovazquez
 ---
 

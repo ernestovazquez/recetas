@@ -7,9 +7,6 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 image: https://github.com/user-attachments/assets/91d56e2b-1d8e-4369-8c65-56d43323e6df
 optimized_image: https://github.com/user-attachments/assets/91d56e2b-1d8e-4369-8c65-56d43323e6df
 category: sopas
-tags:
-  - css
-  - tips
 author: ernestovazquez
 ---
 

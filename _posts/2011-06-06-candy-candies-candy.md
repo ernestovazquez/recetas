@@ -7,9 +7,6 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
 image: https://github.com/user-attachments/assets/1b1662e6-7b65-4386-a6dc-4485d146dca4
 optimized_image: https://github.com/user-attachments/assets/1b1662e6-7b65-4386-a6dc-4485d146dca4
 category: platos-principales
-tags:
-  - food
-  - tips
 author: ernestovazquez
 ---
 

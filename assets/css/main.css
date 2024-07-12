@@ -23,7 +23,6 @@ html {
  */
 body {
   margin: 0;
-  background-color: #333333;
 }
 
 /**
@@ -3878,11 +3877,11 @@ blockquote p {
 }
 
 ::-webkit-input-placeholder {
-  color: #333333;
+  color: #ffffff;
 }
 
 ::-moz-placeholder {
-  color: #333333;
+  color: #ffffff;
 }
 
 input[type=email], input[type=text], input[type=tel], textarea {
@@ -3908,7 +3907,7 @@ cite {
 }
 
 .button_back {
-  color: #333333;
+  color: #ffffff;
   font-size: 1.1rem;
   text-decoration: none;
   font-style: italic;
@@ -3932,7 +3931,7 @@ cite {
 }
 
 .main_header .logo {
-  color: #333333;
+  color: #ffffff;
   margin: 0;
   font-size: 2rem;
   text-decoration: none;
@@ -3964,7 +3963,7 @@ cite {
 }
 
 .main_header nav a {
-  color: #333333;
+  color: #ffffff;
   text-decoration: none;
   margin-left: 2rem;
 }
@@ -3979,7 +3978,7 @@ cite {
 
 #banner .content .title, #banner .content .sub_title {
   text-align: center;
-  color: #333333;
+  color: #ffffff;
 }
 
 #banner .content .title {
@@ -4034,7 +4033,7 @@ cite {
 }
 
 .chapters .chapter_inner .chapter_number, .chapters .chapter_inner .chapter_title {
-  color: #333333;
+  color: #ffffff;
 }
 
 .chapters .chapter_inner .chapter_number {
@@ -4060,7 +4059,7 @@ cite {
 .newsletter {
   padding: 2rem 0;
   text-align: center;
-  color: #333333;
+  color: #ffffff;
 }
 
 .newsletter .newsletter_title {
@@ -4100,7 +4099,7 @@ cite {
 .newsletter form .subscribe_btn {
   width: 170px;
   padding: 1.35rem;
-  color: #333333;
+  color: #ffffff;
   font-size: 0.9rem;
   text-align: center;
   text-transform: uppercase;
@@ -4141,7 +4140,7 @@ cite {
 }
 
 .pagination a:hover {
-  color: #333333;
+  color: #ffffff;
 }
 
 .pagination .active {
@@ -4158,7 +4157,7 @@ cite {
   background-color: #333333;
   -webkit-border-radius: 0.3rem;
           border-radius: 0.3rem;
-  color: #333333;
+  color: #ffffff;
   font-size: 25px;
   width: 50px;
   height: 50px;
@@ -4181,13 +4180,13 @@ cite {
 }
 
 .top:hover {
-  color: #333333;
+  color: #ffffff;
   background-color: #c0334a;
   opacity: .8;
 }
 
 .comment_area {
-  background-color: #333333;
+  background-color: #ffffff;
 }
 
 .comment_area .article-comments {
@@ -4229,7 +4228,7 @@ cite {
 
 .social_footer a:hover {
   background-color: #c0334a;
-  color: #333333;
+  color: #ffffff;
 }
 
 .copyright {
@@ -4238,7 +4237,7 @@ cite {
 }
 
 .copyright p {
-  color: #333333;
+  color: #ffffff;
   font-size: 0.7rem;
   text-transform: uppercase;
   margin: 0;
@@ -4262,8 +4261,7 @@ cite {
 }
 
 .post_content {
-/*  background-color: rgba(255, 255, 255, 0.8); /* Cambia el valor de 0.8 según la opacidad deseada */
-  background-color: #333333;
+  background-color: rgba(255, 255, 255, 0.8); /* Cambia el valor de 0.8 según la opacidad deseada */
   padding: 20px; /* Ajusta el relleno según tus necesidades */
   border-radius: 10px; /* Opcional: agrega bordes redondeados */
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Opcional: sombra suave */
@@ -4274,7 +4272,7 @@ cite {
 }
 
 .post {
-  background-color: #333333;
+  background-color: #ffffff;
   margin-bottom: 1.5rem;
 }
 
@@ -4302,7 +4300,7 @@ cite {
   padding: 0.5rem 1rem;
   font-size: 1.1rem;
   margin: 0;
-  color: #333333;
+  color: #ffffff;
   background-color: rgba(210, 84, 105, 0.4);
 }
 
@@ -4311,7 +4309,7 @@ cite {
   font-size: 2rem;
   margin: 0;
   background-color: rgba(192, 51, 74, 0.4);
-  color: #333333;
+  color: #ffffff;
 }
 
 .post .entry_content {
@@ -4320,7 +4318,7 @@ cite {
 
 .post_footer {
   padding: 2rem 0;
-  background-color: #333333;
+  background-color: #ffffff;
   border-top: 2px solid #6e6e6e;
 }
 
@@ -4344,7 +4342,7 @@ cite {
 
 .post_footer a:hover {
   background-color: #d25469;
-  color: #333333;
+  color: #ffffff;
 }
 
 .post_footer .post_share {
@@ -4370,7 +4368,7 @@ cite {
 .author {
   padding: 2rem 0;
   margin-bottom: 1.5rem;
-  background-color: #333333;
+  background-color: #ffffff;
 }
 
 .author .author_image {
@@ -4426,14 +4424,12 @@ cite {
 }
 
 .recent_box {
-  background-color: #333333;
+  background-color: #ffffff;
   padding: 2rem 0;
   margin-bottom: 1.5rem;
 }
 
 .recent_box .recent_title {
-  background-color: #333333; /* Cambia el color de fondo del título de las publicaciones recientes */
-  padding: 1rem;
   font-size: 1.5rem;
   text-align: center;
   margin: 0 0 1.75rem;
@@ -4441,11 +4437,7 @@ cite {
 
 .recent_box .recent_list .recent_item {
   position: relative;
-  background-color: #333333; /* Cambia el color de fondo de la lista de publicaciones recientes */
-  padding: 1rem; 
   display: inline-block;
-  background-color: transparent;
-  padding: 0;
   width: 31%;
   margin-left: 2%;
   margin-bottom: 3.5%;
@@ -4465,8 +4457,6 @@ cite {
   left: 2.5%;
   color: white;
   font-size: 1rem;
-  background-color: #333333; /* Cambia el color de fondo de cada elemento individual de las publicaciones recientes */
-  padding: 1rem;
 }
 
 .recent_box .recent_list .recent_item_post_1 {
@@ -4482,7 +4472,7 @@ cite {
 }
 
 #tags {
-  background-color: #333333;
+  background-color: #ffffff;
   padding: 2rem 1rem 4rem;
   width: 960px;
   max-width: 90%;
@@ -4522,7 +4512,7 @@ cite {
   display: inline-block;
   text-decoration: none;
   padding: 0.4rem 0.8rem;
-  color: #333333;
+  color: #ffffff;
 }
 
 #tags .tags a:active {
@@ -4646,7 +4636,7 @@ cite {
 .about .about_social .social_footer a {
   font-size: 1rem;
   color: #262626;
-  background-color: #333333;
+  background-color: #ffffff;
 }
 
 .about .about_social .social_footer a:hover {
@@ -4680,7 +4670,7 @@ cite {
   text-align: center;
   text-transform: uppercase;
   font-size: 1.2rem;
-  color: #333333;
+  color: #ffffff;
 }
 
 .container_contact .form_title::before, .container_contact .form_title::after {
@@ -4701,7 +4691,7 @@ cite {
   width: 100%;
   padding: 1rem;
   background-color: rgba(255, 255, 255, 0.4);
-  color: #333333;
+  color: #ffffff;
   font-weight: 300;
   -webkit-transition: all .35s ease-in-out;
   transition: all .35s ease-in-out;
@@ -4713,7 +4703,7 @@ cite {
 
 .container_contact .form .form_btn {
   width: inherit;
-  color: #333333;
+  color: #ffffff;
   text-transform: uppercase;
   outline: none;
   border: none;
@@ -4728,7 +4718,7 @@ cite {
 
 .container_contact .form .form_btn:hover {
   background-color: rgba(191, 127, 127, 0.6);
-  color: #333333;
+  color: #ffffff;
 }
 
 .container_contact .form .form_btn:active {
@@ -5106,7 +5096,7 @@ cite {
 /* Añadir un efecto hover */
 .categorias-link:hover {
   background-color: #ff6347; /* Cambia el color de fondo al pasar el mouse */
-  color: #333333;           /* Cambia el color del texto al pasar el mouse */
+  color: #ffffff;           /* Cambia el color del texto al pasar el mouse */
 }
 
 .main_header {
@@ -5156,18 +5146,3 @@ cite {
   text-decoration: underline;
 }
 
-article.post {
-    background-color: transparent; /* Asegura que el fondo del artículo sea transparente */
-    padding: 0; /* Elimina cualquier relleno interno para que el contenido se ajuste al borde */
-}
-
-section.recent_box {
-    background-color: transparent; /* Asegura que el fondo de la sección de publicaciones recientes sea transparente */
-    margin-top: 2rem; /* Ajusta el margen superior según sea necesario */
-    padding: 0; /* Elimina cualquier relleno interno para que el contenido se ajuste al borde */
-}
-
-div.recent_list {
-    background-color: transparent; /* Asegura que el fondo de la lista de publicaciones recientes sea transparente */
-    padding: 0; /* Elimina cualquier relleno interno para que el contenido se ajuste al borde */
-}

@@ -3,21 +3,37 @@ layout: default
 ---
 {% include header.html %}
 
-<main class="post_content">
+<main class="post_content" style="background-color: #f0f0f0; padding: 2rem;">
   <article class="post">
     <header>
       <div class="post_description">
-        <h1 class="post_title">{{ page.title }}</h1>
+        <h1 class="post_title">{{page.title}}</h1>
       </div>
     </header> <!-- End Header -->
 
     <div class="entry_content">
-      {{ page.content | markdownify }}
+      {{page.content | markdownify}}
     </div>
 
+    <div class="post_wrapper">
+      <footer class="post_footer cf">
+        <div class="post_share">
+          <span>Share:</span>
+          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
+        </div>
+        <div class="post_tag">
+          <span>Tags:</span>
+          {% for tag in page.tags %}
+          <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      </footer>
+    </div>
   </article> <!-- End Section Post -->
 
-  <section class="recent_box">
+  <section class="recent_box" style="margin-top: 2rem;">
     <div class="post_wrapper">
       <h2 class="recent_title">Recent post</h2>
       <div class="recent_list">
@@ -25,7 +41,7 @@ layout: default
           {% if post.title %}
             <a href="{{ post.url | prepend: site.baseurl }}"
               class="recent_item"
-              style="background-image: url({{ "/assets/img/" | prepend: site.baseurl | append: post.img }});">
+              style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
                 <span>{{ post.title }}</span>
             </a>
           {% endif %}

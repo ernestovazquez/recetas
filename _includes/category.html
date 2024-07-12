@@ -1,8 +1,17 @@
-<ul>
-  {% assign categories = site.pages | where_exp: "page", "page.path contains '/category/'" %}
-  {% for category in categories %}
-    {% assign category_name = category.path | split: '/' | last | split: '.' | first %}
-    <li><a href="{{ category.url }}">{{ category_name | capitalize }}</a></li>
-  {% endfor %}
-</ul>
+<main class="page-content" aria-label="Content">
+  <section class="categories-section">
+    <div class="container">
+      <h2 class="section-title categories-title">Categorías</h2>
 
+      <ul class="category-list">
+        {% assign categories = site.pages | where_exp: "page", "page.path contains '/category/'" %}
+        {% for category in categories %}
+          {% assign category_name = category.path | split: '/' | last | split: '.' | first %}
+          <li class="category-item">
+            <a href="{{ category.url }}" class="category-link">
+              <span class="category-title">{{ category_name | capitalize }}</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+</main>

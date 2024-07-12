@@ -4,7 +4,8 @@ layout: post
 title: Trust me, it will work
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://github.com/user-attachments/assets/de38564e-9036-4826-9ffe-3bfeb05466a3
+image: https://github.com/user-attachments/assets/c9fda0b7-893c-490e-9b9a-2ee3e158b58b
+optimized_image: https://github.com/user-attachments/assets/c9fda0b7-893c-490e-9b9a-2ee3e158b58b
 category: 'tips'
 tags:
   - languages

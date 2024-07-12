@@ -3,29 +3,29 @@ layout: default
 ---
 {% include header.html %}
 
-<main class="post_content" style="background-color: #333333; padding: 2rem;">
-  <article class="post" style="background-color: transparent; padding: 0;">
+<main class="post_content">
+  <article class="post">
     <header>
       <div class="post_description">
-        <h1 class="post_title">{{page.title}}</h1>
+        <h1 class="post_title">{{ page.title }}</h1>
       </div>
     </header> <!-- End Header -->
 
-    <div class="entry_content" style="background-color: #333333; padding: 0;">
-      {{page.content | markdownify}}
+    <div class="entry_content">
+      {{ page.content | markdownify }}
     </div>
 
   </article> <!-- End Section Post -->
 
-  <section class="recent_box" style="margin-top: 2rem; background-color: transparent; padding: 0;">
-    <div class="post_wrapper" style="background-color: transparent; padding: 0;">
-      <h2 class="recent_title" style="background-color: transparent; padding: 0;">Recent post</h2>
-      <div class="recent_list" style="background-color: transparent; padding: 0;">
+  <section class="recent_box">
+    <div class="post_wrapper">
+      <h2 class="recent_title">Recent post</h2>
+      <div class="recent_list">
         {% for post in site.posts offset:0 limit:6 %}
           {% if post.title %}
             <a href="{{ post.url | prepend: site.baseurl }}"
               class="recent_item"
-              style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} ); background-color: transparent; padding: 0;">
+              style="background-image: url({{ "/assets/img/" | prepend: site.baseurl | append: post.img }});">
                 <span>{{ post.title }}</span>
             </a>
           {% endif %}

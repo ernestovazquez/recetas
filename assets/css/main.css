@@ -23,6 +23,7 @@ html {
  */
 body {
   margin: 0;
+  background-color: #333333;
 }
 
 /**
@@ -4431,6 +4432,8 @@ cite {
 }
 
 .recent_box .recent_title {
+  background-color: #333333; /* Cambia el color de fondo del título de las publicaciones recientes */
+  padding: 1rem;
   font-size: 1.5rem;
   text-align: center;
   margin: 0 0 1.75rem;
@@ -4438,6 +4441,8 @@ cite {
 
 .recent_box .recent_list .recent_item {
   position: relative;
+  background-color: #333333; /* Cambia el color de fondo de la lista de publicaciones recientes */
+  padding: 1rem; 
   display: inline-block;
   background-color: transparent;
   padding: 0;
@@ -4460,6 +4465,8 @@ cite {
   left: 2.5%;
   color: white;
   font-size: 1rem;
+  background-color: #333333; /* Cambia el color de fondo de cada elemento individual de las publicaciones recientes */
+  padding: 1rem;
 }
 
 .recent_box .recent_list .recent_item_post_1 {

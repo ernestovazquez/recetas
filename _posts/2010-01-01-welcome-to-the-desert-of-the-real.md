@@ -7,6 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: https://github.com/user-attachments/assets/6d9d6844-b838-4588-b16e-a3ebf5b53a52
+optimized_image: https://github.com/user-attachments/assets/a32910e2-3fae-44a2-984d-85313f01711d
 category: blog
 tags:
   - welcome

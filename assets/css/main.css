@@ -3999,7 +3999,7 @@ cite {
 }
 
 .logo-text {
-  font-size: 1.2em; /* Tamaño de fuente del texto */
+  font-size: 1.3em; /* Tamaño de fuente del texto */
   font-weight: bold; /* Negrita */
   display: inline-block; /* Convertimos en bloque para ajustar verticalmente */
   vertical-align: middle; /* Alineamos verticalmente al centro */
@@ -5122,7 +5122,7 @@ cite {
 }
 
 .categorias-link {
-  font-size: 1.5em;  /* Aumenta el tamaño de la fuente */
+  font-size: 1.3em;  /* Aumenta el tamaño de la fuente */
   font-weight: bold; /* Hace que el texto sea negrita */
   color: #ff6347;    /* Cambia el color del texto (Tomato color) */
   text-transform: uppercase; /* Transforma el texto a mayúsculas */

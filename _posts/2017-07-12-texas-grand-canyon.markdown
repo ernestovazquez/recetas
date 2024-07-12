@@ -7,46 +7,65 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tags: sopas
 ---
 
-<main class="recipe-content">
-  <section class="recipe-section">
-    <div class="recipe-wrapper">
-      <h1 class="recipe-title">Nombre de la Receta</h1>
+## Ingredientes
 
-      <!-- Imagen principal de la receta -->
-      ![Imagen de la receta](/assets/img/recetas/nombre-de-la-receta.jpg)
+- **Ingredientes principales:**
+  - Ingrediente 1
+  - Ingrediente 2
+  - ...
 
-      <!-- Información general de la receta -->
-      ### Información General
-      - **Tiempo de preparación:** X minutos
-      - **Tiempo de cocción:** X minutos
-      - **Porciones:** X personas
+- **Para la salsa:**
+  - Ingrediente A
+  - Ingrediente B
+  - ...
 
-      <!-- Ingredientes -->
-      ### Ingredientes
-      - Lista de ingredientes:
-        - Ingrediente 1
-        - Ingrediente 2
-        - ...
+## Instrucciones
 
-      <!-- Instrucciones -->
-      ### Instrucciones
-      1. Paso 1
-         Descripción detallada del paso 1.
-      2. Paso 2
-         Descripción detallada del paso 2.
-      3. ...
+1. **Preparación de ingredientes:**
+   - Detalles sobre cómo preparar los ingredientes.
 
-      <!-- Notas -->
-      ### Notas
-      - Nota 1: Descripción de la nota.
-      - Nota 2: Descripción de la nota.
+2. **Cocinando la receta:**
+   - Paso 1: Descripción detallada del paso.
+   - Paso 2: Descripción detallada del paso.
+   - ...
 
-      <!-- Opcional: Consejos o variaciones -->
-      ### Consejos o Variaciones
-      - Consejo 1: Descripción del consejo.
-      - Consejo 2: Descripción del consejo.
-    </div>
-  </section>
-</main>
+3. **Servir:**
+   - Indicaciones sobre cómo servir la receta.
 
-{% include footer.html %}
+## Consejos y Notas
+
+- **Consejo 1:** Consejo útil para la preparación.
+- **Consejo 2:** Otro consejo opcional.
+
+## Información Adicional
+
+- **Tiempo de preparación:** X minutos
+- **Tiempo de cocción:** X minutos
+- **Porciones:** X personas
+
+## Imágenes Adicionales (opcional)
+
+![Imagen adicional 1](ruta/a/imagen-adicional-1.jpg)
+![Imagen adicional 2](ruta/a/imagen-adicional-2.jpg)
+
+## Variaciones (opcional)
+
+- **Variante 1:** Otra forma de preparar la receta.
+  - Ingredientes alternativos.
+  - Instrucciones adicionales.
+
+- **Variante 2:** Otra variante de la receta.
+  - Ingredientes diferentes.
+  - Instrucciones adicionales.
+
+## Historia y Origen (opcional)
+
+Breve historia sobre el origen o la inspiración detrás de la receta.
+
+## Acompañamientos (opcional)
+
+Sugerencias de acompañamientos para servir con la receta.
+
+---
+
+¡Disfruta preparando esta deliciosa receta!

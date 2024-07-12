@@ -3877,11 +3877,11 @@ blockquote p {
 }
 
 ::-webkit-input-placeholder {
-  color: #ffffff;
+  color: #333333;
 }
 
 ::-moz-placeholder {
-  color: #ffffff;
+  color: #333333;
 }
 
 input[type=email], input[type=text], input[type=tel], textarea {
@@ -3907,7 +3907,7 @@ cite {
 }
 
 .button_back {
-  color: #ffffff;
+  color: #333333;
   font-size: 1.1rem;
   text-decoration: none;
   font-style: italic;
@@ -3963,7 +3963,7 @@ cite {
 }
 
 .main_header nav a {
-  color: #ffffff;
+  color: #333333;
   text-decoration: none;
   margin-left: 2rem;
 }
@@ -3978,7 +3978,7 @@ cite {
 
 #banner .content .title, #banner .content .sub_title {
   text-align: center;
-  color: #ffffff;
+  color: #333333;
 }
 
 #banner .content .title {
@@ -4309,7 +4309,7 @@ cite {
   font-size: 2rem;
   margin: 0;
   background-color: rgba(192, 51, 74, 0.4);
-  color: #ffffff;
+  color: #333333;
 }
 
 .post .entry_content {
@@ -4318,7 +4318,7 @@ cite {
 
 .post_footer {
   padding: 2rem 0;
-  background-color: #ffffff;
+  background-color: #333333;
   border-top: 2px solid #6e6e6e;
 }
 
@@ -4342,7 +4342,7 @@ cite {
 
 .post_footer a:hover {
   background-color: #d25469;
-  color: #ffffff;
+  color: #333333;
 }
 
 .post_footer .post_share {
@@ -4368,7 +4368,7 @@ cite {
 .author {
   padding: 2rem 0;
   margin-bottom: 1.5rem;
-  background-color: #ffffff;
+  background-color: #333333;
 }
 
 .author .author_image {
@@ -4424,7 +4424,7 @@ cite {
 }
 
 .recent_box {
-  background-color: #ffffff;
+  background-color: #333333;
   padding: 2rem 0;
   margin-bottom: 1.5rem;
 }
@@ -4472,7 +4472,7 @@ cite {
 }
 
 #tags {
-  background-color: #ffffff;
+  background-color: #333333;
   padding: 2rem 1rem 4rem;
   width: 960px;
   max-width: 90%;
@@ -4512,7 +4512,7 @@ cite {
   display: inline-block;
   text-decoration: none;
   padding: 0.4rem 0.8rem;
-  color: #ffffff;
+  color: #333333;
 }
 
 #tags .tags a:active {
@@ -4636,7 +4636,7 @@ cite {
 .about .about_social .social_footer a {
   font-size: 1rem;
   color: #262626;
-  background-color: #ffffff;
+  background-color: #333333;
 }
 
 .about .about_social .social_footer a:hover {
@@ -4670,7 +4670,7 @@ cite {
   text-align: center;
   text-transform: uppercase;
   font-size: 1.2rem;
-  color: #ffffff;
+  color: #333333;
 }
 
 .container_contact .form_title::before, .container_contact .form_title::after {
@@ -4691,7 +4691,7 @@ cite {
   width: 100%;
   padding: 1rem;
   background-color: rgba(255, 255, 255, 0.4);
-  color: #ffffff;
+  color: #333333;
   font-weight: 300;
   -webkit-transition: all .35s ease-in-out;
   transition: all .35s ease-in-out;
@@ -4703,7 +4703,7 @@ cite {
 
 .container_contact .form .form_btn {
   width: inherit;
-  color: #ffffff;
+  color: #333333;
   text-transform: uppercase;
   outline: none;
   border: none;
@@ -4718,7 +4718,7 @@ cite {
 
 .container_contact .form .form_btn:hover {
   background-color: rgba(191, 127, 127, 0.6);
-  color: #ffffff;
+  color: #333333;
 }
 
 .container_contact .form .form_btn:active {
@@ -5096,7 +5096,7 @@ cite {
 /* Añadir un efecto hover */
 .categorias-link:hover {
   background-color: #ff6347; /* Cambia el color de fondo al pasar el mouse */
-  color: #ffffff;           /* Cambia el color del texto al pasar el mouse */
+  color: #333333;           /* Cambia el color del texto al pasar el mouse */
 }
 
 .main_header {

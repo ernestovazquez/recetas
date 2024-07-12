@@ -5118,6 +5118,7 @@ cite {
   color: #fff; /* Color del texto */
   font-size: 1.5rem; /* Tamaño del texto */
   font-weight: bold; /* Grosor del texto */
+  text-decoration: none;
 }
 
 .main_menu {

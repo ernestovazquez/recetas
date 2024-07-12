@@ -5094,3 +5094,20 @@ cite {
 .categories-title {
   margin-bottom: 20px; /* Ajusta este valor según el espacio deseado */
 }
+
+.categorias-link {
+  font-size: 1.5em;  /* Aumenta el tamaño de la fuente */
+  font-weight: bold; /* Hace que el texto sea negrita */
+  color: #ff6347;    /* Cambia el color del texto (Tomato color) */
+  text-transform: uppercase; /* Transforma el texto a mayúsculas */
+  padding: 5px 10px; /* Añade un poco de relleno */
+  border-radius: 5px; /* Redondea las esquinas */
+  background-color: #f0f0f0; /* Fondo claro */
+  transition: all 0.3s ease; /* Añade una transición suave */
+}
+
+/* Añadir un efecto hover */
+.categorias-link:hover {
+  background-color: #ff6347; /* Cambia el color de fondo al pasar el mouse */
+  color: #ffffff;           /* Cambia el color del texto al pasar el mouse */
+}

@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekflix"
   spec.version       = "3.1.2"
-  spec.authors       = ["Thiago Rossener"]
+  spec.authors       = ["Ernesto Vázquez"]
   spec.email         = ["thiago@rossener.com"]
 
   spec.summary       = "A Jekyll theme inspired by Netflix."

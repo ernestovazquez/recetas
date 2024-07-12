@@ -44,7 +44,7 @@ Example:
 
 ```yaml
 # site.yml
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description: Jekflix is a template for Jekyll inspired by Netflix and made by Ernesto Vázquez.
 ```
 
 #### `tags`

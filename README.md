@@ -97,7 +97,7 @@ Below are some properties you can change in your project `_config.yml`, check th
 # Site Settings
 name: Jekflix
 title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description: Jekflix is a template for Jekyll inspired by Netflix and made by Ernesto Vázquez.
 tags:
   - blog
   - template
@@ -213,7 +213,7 @@ File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/
 
 ## Author
 
-[Thiago Rossener](https://rossener.com/)
+[Ernesto Vázquez](https://rossener.com/)
 
 Do you like my work? Buy me a coffee!
 

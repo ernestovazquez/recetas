@@ -3932,18 +3932,9 @@ cite {
 
 .main_header {
   padding: 2rem;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  justify-content: space-between;
+  align-items: center;
   background-color: #1c1c1c;
   z-index: 1;
 }
@@ -3967,10 +3958,44 @@ cite {
   align-items: center; /* Alineamos verticalmente al centro */
 }
 
+.logo {
+  margin-right: 10px; /* Ajuste el margen derecho para juntar más los elementos */
+}
+
 .logo img {
   max-width: 50px; /* Tamaño máximo para la imagen del logo */
   height: auto; /* Para mantener la proporción */
   margin-right: 10px; /* Espacio entre la imagen y el texto */
+}
+
+.main_menu {
+  display: flex;
+}
+
+.nav-list {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  margin-left: 20px; /* Ajuste el margen izquierdo para juntar más los elementos */
+}
+
+.nav-link {
+  font-size: 1em;
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+/* Añadir un efecto hover para los enlaces de navegación */
+.nav-link:hover {
+  background-color: #ff6347; /* Color de fondo al pasar el mouse */
+  color: #ffffff; /* Color del texto al pasar el mouse */
 }
 
 .logo-text {

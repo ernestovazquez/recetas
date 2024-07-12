@@ -1,20 +1,19 @@
-<main class="page-content" aria-label="Content">
-  <section class="categories-section">
-    <div class="container">
-      <h2 class="section-title categories-title">Categorías</h2>
-
-      <ul class="category-list">
-        {% assign categories = site.pages | where_exp: "page", "page.path contains '/category/'" %}
-        {% for category in categories %}
-          {% assign category_name = category.path | split: '/' | last | split: '.' | first %}
-          <li class="category-item">
-            <a href="{{ category.url | relative_url }}" class="category-link">
-              <span class="category-title">{{ category_name | capitalize }}</span>
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
+<main class="categories">
+  <section class="category_list">
+    <h2>Categorías</h2>
+    <ul>
+      <li><a href="{{ site.baseurl }}/category/blog/">Blog</a></li>
+      <li><a href="{{ site.baseurl }}/category/code/">Code</a></li>
+      <li><a href="{{ site.baseurl }}/category/css/">CSS</a></li>
+      <li><a href="{{ site.baseurl }}/category/diet/">Diet</a></li>
+      <li><a href="{{ site.baseurl }}/category/life/">Life</a></li>
+      <li><a href="{{ site.baseurl }}/category/music/">Music</a></li>
+      <li><a href="{{ site.baseurl }}/category/tips/">Tips</a></li>
+      <li><a href="{{ site.baseurl }}/category/travel/">Travel</a></li>
+      <li><a href="{{ site.baseurl }}/category/tutorial/">Tutorial</a></li>
+      <li><a href="{{ site.baseurl }}/category/work/">Work</a></li>
+    </ul>
   </section>
 </main>
+
 

@@ -1,14 +1,27 @@
-<header class="main_header">
-  <div class="logo-container">
-    <a href="{{ site.baseurl }}/" class="logo">
-      <img src="{{ site.baseurl }}/assets/img/face.jpg" alt="Logo" style="max-width: 50px;">
+<header class="bar-header">
+    <a id="menu" role="button">
+        <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
     </a>
-    <a href="{{ site.baseurl }}/" class="logo-text">Recetas - Ernesto Vázquez</a>
-  </div>
+    <h1 class="logo">
+        <a href="{{ site.baseurl }}/">
+            {% if site.use_logo %}
+                {% include logo.html %}
+            {% else %}
+                {{ site.name }} <span class="version">{{ site.version }}</span>
+            {% endif %}
+        </a>
+    </h1>
+    <a id="search" class="dosearch" role="button">
+        <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
+    </a>
+    {% if site.show_get_theme_btn %}
+        <a href="https://github.com/thiagorossener/jekflix-template" class="get-theme" role="button">
+            Get this theme!
+        </a>
+    {% endif %}
+</header>
 
-  <nav class="main_menu">
-    <li class="nav-item"><a href="{{ site.baseurl }}/categories/" class="nav-link categorias-link">Categorías</a></li>
-    <!-- Otros enlaces de navegación -->
-  </nav>
-</header> <!-- End Section Header -->
+<div id="mask" class="overlay"></div>
 
+{% include menu.html %}
+{% include search.html %}

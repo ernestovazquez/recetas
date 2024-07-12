@@ -3931,7 +3931,7 @@ cite {
 }
 
 .main_header {
-  padding: 2rem;
+  padding: 1rem 2rem; /* Reducir padding superior e inferior */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -3959,7 +3959,7 @@ cite {
 }
 
 .logo {
-  margin-right: 10px; /* Ajuste el margen derecho para juntar más los elementos */
+  margin-right: 5px; /* Ajuste el margen derecho para juntar más los elementos */
 }
 
 .logo img {
@@ -3980,7 +3980,7 @@ cite {
 }
 
 .nav-item {
-  margin-left: 20px; /* Ajuste el margen izquierdo para juntar más los elementos */
+  margin-left: 15px; /* Ajuste el margen izquierdo para juntar más los elementos */
 }
 
 .nav-link {
@@ -4003,6 +4003,7 @@ cite {
   font-weight: bold; /* Negrita */
   display: inline-block; /* Convertimos en bloque para ajustar verticalmente */
   vertical-align: middle; /* Alineamos verticalmente al centro */
+  color: #fff;
 }
 
 .main_header nav a {

@@ -6,11 +6,7 @@ layout: default
 <main class="post_content" style="background-color: #f0f0f0; padding: 2rem;">
   <article class="post">
     <header>
-      <div class="post_image">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
-      </div>
       <div class="post_description">
-        <p class="post_meta">{{page.date | date: '%Y, %b %d'}}</p>
         <h1 class="post_title">{{page.title}}</h1>
       </div>
     </header> <!-- End Header -->
@@ -36,31 +32,6 @@ layout: default
       </footer>
     </div>
   </article> <!-- End Section Post -->
-
-  <section class="author cf" style="margin-top: 2rem;">
-    <div class="post_wrapper">
-      <div class="author_image">
-        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{ site.author-pic }}{% endif %}" alt="Author face">
-      </div>
-      <div class="author_info">
-        <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Dwayne Newman{% endif %}</h2>
-        <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% else %}La croix godard blue bottle, vape iceland fingerstache cronut single-origin coffee lyft snackwave normcore small batch.{% endif %}</p>
-        <div class="author_social">
-          {% if site.email %}
-          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{site.email}}">{{site.email}}</a></span>
-          {% else %}
-          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:dwayne@example.com">dwayne@example.com</a></span>
-          {% endif %}
-
-          {% if site.website %}
-          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="{{site.website}}" target="_blank">{{site.website}}</a></span>
-          {% else %}
-          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="#" target="_blank">https://dwayne.example.com</a></span>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-  </section> <!-- End Section Author -->
 
   <section class="recent_box" style="margin-top: 2rem;">
     <div class="post_wrapper">

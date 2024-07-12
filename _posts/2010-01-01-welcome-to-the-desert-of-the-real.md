@@ -8,7 +8,7 @@ description: >-
   tempor incididunt ut labore et dolore magna aliqua.
 image: https://github.com/user-attachments/assets/feac7393-f590-4aad-818a-80fba7aa3a3a
 optimized_image: https://github.com/user-attachments/assets/feac7393-f590-4aad-818a-80fba7aa3a3a
-category: blog
+category: entrantes
 tags:
   - welcome
   - blog

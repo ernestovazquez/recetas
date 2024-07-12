@@ -6,7 +6,7 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://github.com/user-attachments/assets/be4d44f8-c9a6-4fff-9eaf-a448aa4ef989
 optimized_image: https://github.com/user-attachments/assets/be4d44f8-c9a6-4fff-9eaf-a448aa4ef989
-category: life
+category: platos-para-compartir
 tags:
   - books
   - read

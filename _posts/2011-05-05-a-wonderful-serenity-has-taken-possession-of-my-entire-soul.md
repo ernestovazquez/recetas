@@ -6,7 +6,7 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://github.com/user-attachments/assets/e9a00e85-a604-43c6-b8b1-1669a46d3e15
 optimized_image: https://github.com/user-attachments/assets/e9a00e85-a604-43c6-b8b1-1669a46d3e15
-category: code
+category: postres
 tags:
   - platform
   - javascript

@@ -8,10 +8,13 @@
         {% for category in categories %}
           {% assign category_name = category.path | split: '/' | last | split: '.' | first %}
           <li class="category-item">
-            <a href="{{ category.url }}" class="category-link">
+            <a href="{{ category.url | relative_url }}" class="category-link">
               <span class="category-title">{{ category_name | capitalize }}</span>
             </a>
           </li>
         {% endfor %}
       </ul>
+    </div>
+  </section>
 </main>
+

@@ -4033,7 +4033,7 @@ cite {
 }
 
 .chapters .chapter_inner .chapter_number, .chapters .chapter_inner .chapter_title {
-  color: #ffffff;
+  color: #333333;
 }
 
 .chapters .chapter_inner .chapter_number {
@@ -4059,7 +4059,7 @@ cite {
 .newsletter {
   padding: 2rem 0;
   text-align: center;
-  color: #ffffff;
+  color: #333333;
 }
 
 .newsletter .newsletter_title {
@@ -4099,7 +4099,7 @@ cite {
 .newsletter form .subscribe_btn {
   width: 170px;
   padding: 1.35rem;
-  color: #ffffff;
+  color: #333333;
   font-size: 0.9rem;
   text-align: center;
   text-transform: uppercase;
@@ -4140,7 +4140,7 @@ cite {
 }
 
 .pagination a:hover {
-  color: #ffffff;
+  color: #333333;
 }
 
 .pagination .active {
@@ -4157,7 +4157,7 @@ cite {
   background-color: #333333;
   -webkit-border-radius: 0.3rem;
           border-radius: 0.3rem;
-  color: #ffffff;
+  color: #333333;
   font-size: 25px;
   width: 50px;
   height: 50px;
@@ -4180,13 +4180,13 @@ cite {
 }
 
 .top:hover {
-  color: #ffffff;
+  color: #333333;
   background-color: #c0334a;
   opacity: .8;
 }
 
 .comment_area {
-  background-color: #ffffff;
+  background-color: #333333;
 }
 
 .comment_area .article-comments {
@@ -4228,7 +4228,7 @@ cite {
 
 .social_footer a:hover {
   background-color: #c0334a;
-  color: #ffffff;
+  color: #333333;
 }
 
 .copyright {
@@ -4237,7 +4237,7 @@ cite {
 }
 
 .copyright p {
-  color: #ffffff;
+  color: #333333;
   font-size: 0.7rem;
   text-transform: uppercase;
   margin: 0;
@@ -4300,7 +4300,7 @@ cite {
   padding: 0.5rem 1rem;
   font-size: 1.1rem;
   margin: 0;
-  color: #ffffff;
+  color: #333333;
   background-color: rgba(210, 84, 105, 0.4);
 }
 

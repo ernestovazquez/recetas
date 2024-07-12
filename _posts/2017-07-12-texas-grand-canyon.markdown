@@ -7,6 +7,10 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tags: sopas
 ---
 
+<div style="text-align: center;">
+    <img src="{{ site.baseurl }}/assets/img/canyon.jpg" alt="Imagen de la receta" style="max-width: 100%;">
+</div>
+
 ## Ingredientes
 
 - **Ingredientes principales:**
@@ -45,8 +49,10 @@ tags: sopas
 
 ## Imágenes Adicionales (opcional)
 
-![Imagen adicional 1](ruta/a/imagen-adicional-1.jpg)
-![Imagen adicional 2](ruta/a/imagen-adicional-2.jpg)
+<div class="gallery">
+    <img src="{{ site.baseurl }}/assets/img/canyon.jpg" alt="Imagen adicional 1">
+    <img src="{{ site.baseurl }}/assets/img/canyon.jpg" alt="Imagen adicional 2">
+</div>
 
 ## Variaciones (opcional)
 

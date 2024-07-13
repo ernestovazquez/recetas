@@ -31,11 +31,13 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
 
 otro
 
-<div style="display: flex; justify-content: center; font-size: 14px; line-height: 1.5;">
+<div style="display: flex; justify-content: center; text-align: center; margin-bottom: 10px; font-size: 12px;">
+  <div>
     <br>
-    <em>DIFICULTAD:</em> <em>Intermedia</em> - <em>INGREDIENTES:</em> <em>FÁCIL</em> - <em>TIEMPO:</em> <em>4 HORAS</em>
     <br>
-    <em>TIEMPO ACTIVO:</em> <em>3 HORAS</em> - <em>CANTIDAD:</em> <em>12 CANELONES (4 PAX)</em>
+    <p style="margin: 0; line-height: 1.5;"><em><strong>DIFICULTAD</strong></em>: <em>Intermedia</em> - <em><strong>INGREDIENTES</strong></em>: <em>FÁCIL</em> - <em><strong>TIEMPO</strong></em>: <em>4 HORAS</em></p>
+    <p style="margin: 0; line-height: 1.5;"><em><strong>TIEMPO ACTIVO</strong></em>: <em>3 HORAS</em> - <em><strong>CANTIDAD</strong></em>: <em>12 CANELONES (4 PAX)</em></p>
+  </div>
 </div>
 
 

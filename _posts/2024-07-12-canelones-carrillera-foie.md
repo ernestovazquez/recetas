@@ -12,7 +12,7 @@ tags:
   - Canelones
   - Bechamel
   - Pasta
-published: false
+published: true
 ---
 
 Las placas de pasta suelen recordarle a todo el mundo a la famosa y popular lasaña, pero a mí la primera imagen que se me viene a la cabeza cuando las veo es la de los canelones, que guardan un especial lugar en mi corazón y probablemente en el de todos los españoles. Es un plato originalmente italiano, pero que fue adoptado por comerciantes catalanes y después interpretado por sus cocineros, convirtiéndose en uno de los platos más famosos de la región, y también de toda la Península.

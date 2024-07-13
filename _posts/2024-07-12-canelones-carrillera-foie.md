@@ -20,10 +20,10 @@ La pasta puede comprarse ya hecha, pero hacerla da un resultado absolutamente ma
 
 La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Instagram](https://www.instagram.com/jmongebravo) en el que tiene recetas maravillosas.
 
-<div style="display: flex; justify-content: center; text-align: center; margin-bottom: 20px; font-size: 12px;">
+<div style="display: flex; justify-content: center; text-align: center; margin-bottom: 10px; font-size: 12px;">
   <div>
-    <p style="margin-bottom: 5px;"><strong>DIFICULTAD</strong>: Intermedia - <strong>INGREDIENTES</strong>: FÁCIL - <strong>TIEMPO</strong>: 4 HORAS</p>
-    <p style="margin-bottom: 5px;"><strong>TIEMPO ACTIVO</strong>: 3 HORAS - <strong>CANTIDAD</strong>: 12 CANELONES (4 PAX)</p>
+    <p style="margin: 0; line-height: 1;"><strong>DIFICULTAD</strong>: Intermedia - <strong>INGREDIENTES</strong>: FÁCIL - <strong>TIEMPO</strong>: 4 HORAS</p>
+    <p style="margin: 0; line-height: 1;"><strong>TIEMPO ACTIVO</strong>: 3 HORAS - <strong>CANTIDAD</strong>: 12 CANELONES (4 PAX)</p>
   </div>
 </div>
 

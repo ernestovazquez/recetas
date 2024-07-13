@@ -20,11 +20,12 @@ La pasta puede comprarse ya hecha, pero hacerla da un resultado absolutamente ma
 
 La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Instagram](https://www.instagram.com/jmongebravo) en el que tiene recetas maravillosas.
 
-## Información de la receta
-- **Dificultad:** Intermedia
-- **Tiempo de preparación:** 4 horas
-- **Tiempo activo:** 3 horas
-- **Cantidad:** 12 canelones (4 personas)
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <div style="text-align: center;">
+    <p style="text-transform: uppercase; font-weight: bold; margin-bottom: 5px;">**DIFICULTAD**: Intermedia - **INGREDIENTES**: FÁCIL - **TIEMPO**: 4 HORAS</p>
+    <p style="margin-bottom: 5px;">**TIEMPO ACTIVO**: 3 HORAS - **CANTIDAD**: 12 CANELONES (4 PAX)</p>
+  </div>
+</div>
 
 ## INGREDIENTES
 
@@ -69,7 +70,7 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
 
 ## MÉTODO
 
-### CANELONES DE CARRILLERA Y FOIE
+### Canelones de carrillera y foie
 1. Pica la zanahoria, una cebolla y los ajos. Quítale la pulpa y las pepitas al tomate y pícalo. Reserva todo.
 2. Calienta una cacerola grande sobre fuego alto, añade las carrilleras y salpiméntalas. Márcalas por los dos lados, unos 2 minutos cada uno, hasta que estén profundamente doradas.
 3. Saca las carrilleras, baja el fuego a medio alto y añade la zanahoria, la cebolla y el ajo, junto a una pizca de sal. Rehoga las verduras durante 4 minutos, hasta que la cebolla comience a ser translúcida por los bordes.
@@ -79,7 +80,7 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
 7. Devuelve las carrilleras a la cacerola, junto a la hoja de laurel, el ramillete de tomillo, el vino blanco y el caldo de ternera.
 8. Llévalo a ebullición, baja el fuego a bajo, y guísalas, cubiertas, de 1h 30 a 2, o hasta que no opongan resistencia a ser atravesadas con algo no afilado.
 
-### PASTA FRESCA DE SEMOLINA
+### Pasta fresca de semolina
 1. En un bol, mezcla la harina de fuerza, la semolina de trigo y la sal.
 2. Transfiere la mezcla a una encimera y dale forma de volcán.
 3. Casca el huevo y añade la yema en el cráter. Bate con un tenedor, añadiendo la harina poco a poco. Cuando se desmorone, continúa amasando con las manos, hasta que la masa retome la forma al apretarla con un dedo, unos 4 minutos.
@@ -88,7 +89,7 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
 6. Pasa la placa por la máquina de pasta, estrechando su grosor un número cada vez, hasta que llegues al más fino.
 7. Corta la pasta en rectángulos de 10x14 cm aproximadamente y resérvala.
 
-### MONTAJE
+### Montaje
 1. Salpimienta el foie por ambos lados y márcalo en una sartén sobre fuego alto.
 2. Transfiere el foie a un bol y machácalo con un tenedor, haciendo una pasta.
 3. Sobre una hoja de papel film, haz una barrita de foie y enróllalo, dándole forma cilíndrica. Repite con todo el foie y mételo al congelador.
@@ -101,7 +102,7 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
 10. Reparte todo el relleno equitativamente en todas las placas de pasta, y luego coloca un trozo de foie en cada uno.
 11. Enróllalos y resérvalos.
 
-### BECHAMEL
+### Bechamel
 1. En una sartén sobre fuego medio-alto, añade la mantequilla y derrítela.
 2. Cuando burbujee, añade la harina, mézclalo y cocínalo hasta que no huela a harina cruda, 1 minuto y medio más o menos.
 3. Añade poco a poco la leche caliente, mezclando constantemente, hasta que hayas usado toda la leche y la bechamel esté lista.

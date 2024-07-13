@@ -81,6 +81,7 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
         <li>120 ml de zumo de naranja</li>
         <li>60 ml de aceite de oliva virgen extra</li>
         <li>1 cucharada de orégano seco</li>
+      </ul>
     </ul>
   </div>
 </div>

@@ -12,6 +12,7 @@ tags:
   - Tartas
   - Queso
 author: ernestovazquez
+---
 
 La tarta de queso de La Viña es un clásico que no puede faltar en tu repertorio de postres. Con su textura cremosa y su sabor delicado, conquista a todos los paladares. Aprende a prepararla con esta receta fácil y disfruta de un postre irresistible.
 

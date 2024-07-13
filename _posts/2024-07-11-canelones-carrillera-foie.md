@@ -2,8 +2,8 @@
 date: 2024-07-11
 layout: post
 title: Canelones de carrillera y foie, con pasta casera
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle: Un clásico italiano con un toque gourmet español que te encantará.
+description: Canelones rellenos de carrillera de cerdo, cebolla caramelizada y foie, cubiertos con bechamel y pecorino romano, servidos sobre una cama de demi-glace.
 image: https://github.com/user-attachments/assets/c727c2e1-9797-49b0-9ca0-aa23d14ec2fc
 optimized_image: https://github.com/user-attachments/assets/c727c2e1-9797-49b0-9ca0-aa23d14ec2fc
 category: platos-principales

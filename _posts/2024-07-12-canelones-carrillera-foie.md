@@ -26,9 +26,11 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
 - **Tiempo activo:** 3 horas
 - **Cantidad:** 12 canelones (4 personas)
 
+## Ingredientes
+
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;">
-    <h4>Canelones</h4>
+    <h3>Canelones</h3>
     <ul>
       <li>4 carilleras de cerdo (1 kg)</li>
       <li>3 cebollas grandes</li>
@@ -47,7 +49,7 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
     </ul>
   </div>
   <div style="flex: 1; margin-left: 10px;">
-    <h4>Pasta Fresca de Semolina</h4>
+    <h3>Pasta Fresca de Semolina</h3>
     <ul>
       <li>60 g de harina de fuerza</li>
       <li>60 g de semolina de trigo (sustituible por harina de fuerza)</li>
@@ -57,51 +59,37 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
   </div>
 </div>
 
-<h4>Bechamel</h4>
-<ul>
-  <li>40 g de harina de trigo</li>
-  <li>40 g de mantequilla</li>
-  <li>750 ml de leche caliente</li>
-  <li>Nuez moscada</li>
-  <li>Sal</li>
-</ul>
-
-### prueba 2
-
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 10px;">
-    ### Canelones
-    - 4 carilleras de cerdo (1 kg)
-    - 3 cebollas grandes
-    - 1 zanahoria grande
-    - 2 tomates maduros
-    - 3 dientes de ajo
-    - Sal y pimienta negra
-    - 1 cucharada de concentrado de tomate
-    - 1 chorrito de Pedro Ximénez
-    - 500 ml de vino blanco (verdejo)
-    - 500 ml de caldo (pref. de ternera)
-    - 1 hoja de laurel
-    - 1 ramillete de tomillo
-    - 120 g de foie
-    - Pecorino romano / parmigiano reggiano
+    <h3>Bechamel</h3>
+    <ul>
+      <li>40 g de harina de trigo</li>
+      <li>40 g de mantequilla</li>
+      <li>750 ml de leche caliente</li>
+      <li>Nuez moscada</li>
+      <li>Sal</li>
+    </ul>
   </div>
   <div style="flex: 1; margin-left: 10px;">
-    ### Pasta Fresca de Semolina
-    - 60 g de harina de fuerza
-    - 60 g de semolina de trigo (sustituible por harina de fuerza)
-    - 1 huevo L
-    - 1 yema
+    <h3>Canelones</h3>
+    <ul>
+      <li>4 carilleras de cerdo (1 kg)</li>
+      <li>3 cebollas grandes</li>
+      <li>1 zanahoria grande</li>
+      <li>2 tomates maduros</li>
+      <li>3 dientes de ajo</li>
+      <li>Sal y pimienta negra</li>
+      <li>1 cucharada de concentrado de tomate</li>
+      <li>1 chorrito de Pedro Ximénez</li>
+      <li>500 ml de vino blanco (verdejo)</li>
+      <li>500 ml de caldo (pref. de ternera)</li>
+      <li>1 hoja de laurel</li>
+      <li>1 ramillete de tomillo</li>
+      <li>120 g de foie</li>
+      <li>Pecorino romano / parmigiano reggiano</li>
+    </ul>
   </div>
 </div>
-
-### Bechamel
-- 40 g de harina de trigo
-- 40 g de mantequilla
-- 750 ml de leche caliente
-- Nuez moscada
-- Sal
-
 
 ## Método
 

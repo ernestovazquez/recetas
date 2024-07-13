@@ -30,39 +30,39 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
-    <h3 style="text-transform: uppercase;">Canelones</h3>
-    <ul style="margin-bottom: 0; padding-inline-start: 0;">
-      <li style="margin-bottom: 5px;">4 carilleras de cerdo (1 kg)</li>
-      <li style="margin-bottom: 5px;">3 cebollas grandes</li>
-      <li style="margin-bottom: 5px;">1 zanahoria grande</li>
-      <li style="margin-bottom: 5px;">2 tomates maduros</li>
-      <li style="margin-bottom: 5px;">3 dientes de ajo</li>
-      <li style="margin-bottom: 5px;">Sal y pimienta negra</li>
-      <li style="margin-bottom: 5px;">1 cucharada de concentrado de tomate</li>
-      <li style="margin-bottom: 5px;">1 chorrito de Pedro Ximénez</li>
-      <li style="margin-bottom: 5px;">500 ml de vino blanco (verdejo)</li>
-      <li style="margin-bottom: 5px;">500 ml de caldo (pref. de ternera)</li>
-      <li style="margin-bottom: 5px;">1 hoja de laurel</li>
-      <li style="margin-bottom: 5px;">1 ramillete de tomillo</li>
-      <li style="margin-bottom: 5px;">120 g de foie</li>
-      <li style="margin-bottom: 5px;">Pecorino romano / parmigiano reggiano</li>
+    <h3>Canelones</h3>
+    <ul style="margin-bottom: 0;">
+      <li>4 carilleras de cerdo (1 kg)</li>
+      <li>3 cebollas grandes</li>
+      <li>1 zanahoria grande</li>
+      <li>2 tomates maduros</li>
+      <li>3 dientes de ajo</li>
+      <li>Sal y pimienta negra</li>
+      <li>1 cucharada de concentrado de tomate</li>
+      <li>1 chorrito de Pedro Ximénez</li>
+      <li>500 ml de vino blanco (verdejo)</li>
+      <li>500 ml de caldo (pref. de ternera)</li>
+      <li>1 hoja de laurel</li>
+      <li>1 ramillete de tomillo</li>
+      <li>120 g de foie</li>
+      <li>Pecorino romano / parmigiano reggiano</li>
     </ul>
   </div>
   <div style="flex: 1; margin-left: 20px;">
-    <h3 style="text-transform: uppercase;">Pasta fresca de semolina</h3>
-    <ul style="margin-bottom: 0; padding-inline-start: 0;">
-      <li style="margin-bottom: 5px;">60 g de harina de fuerza</li>
-      <li style="margin-bottom: 5px;">60 g de semolina de trigo (sustituible por harina de fuerza)</li>
-      <li style="margin-bottom: 5px;">1 huevo L</li>
-      <li style="margin-bottom: 5px;">1 yema</li>
+    <h3>Pasta Fresca de Semolina</h3>
+    <ul style="margin-bottom: 0;">
+      <li>60 g de harina de fuerza</li>
+      <li>60 g de semolina de trigo (sustituible por harina de fuerza)</li>
+      <li>1 huevo L</li>
+      <li>1 yema</li>
     </ul>
-    <h3 style="text-transform: uppercase;">Bechamel</h3>
-    <ul style="margin-bottom: 0; padding-inline-start: 0;">
-      <li style="margin-bottom: 5px;">40 g de harina de trigo</li>
-      <li style="margin-bottom: 5px;">40 g de mantequilla</li>
-      <li style="margin-bottom: 5px;">750 ml de leche caliente</li>
-      <li style="margin-bottom: 5px;">Nuez moscada</li>
-      <li style="margin-bottom: 5px;">Sal</li>
+    <h3>Bechamel</h3>
+    <ul style="margin-bottom: 0;">
+      <li>40 g de harina de trigo</li>
+      <li>40 g de mantequilla</li>
+      <li>750 ml de leche caliente</li>
+      <li>Nuez moscada</li>
+      <li>Sal</li>
     </ul>
   </div>
 </div>

@@ -89,6 +89,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
+  - jekyll-capitalize-all
 
 include:
   - category

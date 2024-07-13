@@ -76,7 +76,7 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
       <li>Nuez moscada</li>
       <li>Sal</li>
       <li>Mojo:</li>
-      <ul style="list-style-type: circle; margin-bottom: 0;">
+      <ul style="margin-bottom: 0;">
         <li>60 ml de zumo de lima</li>
         <li>120 ml de zumo de naranja</li>
         <li>60 ml de aceite de oliva virgen extra</li>

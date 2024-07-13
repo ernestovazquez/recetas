@@ -16,8 +16,6 @@ author: ernestovazquez
 
 La tarta de queso de La Viña es un clásico que no puede faltar en tu repertorio de postres. Con su textura cremosa y su sabor delicado, conquista a todos los paladares. Aprende a prepararla con esta receta fácil y disfruta de un postre irresistible.
 
-La receta original de esta tarta es de juanideanasevilla, dejo aquí su [publicación](https://www.juanideanasevilla.com/thermomix/tarta-de-queso-la-vina) en el que tiene recetas maravillosas.
-
 <div style="display: flex; justify-content: center; text-align: center; margin-bottom: 10px; font-size: 12px;">
   <div>
     <br>
@@ -36,25 +34,24 @@ La receta original de esta tarta es de juanideanasevilla, dejo aquí su [publica
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
     <ul style="margin-bottom: 0;">
-      <li>500 gr. queso de untar (O mitad mascarpone y de untar) No pongáis todo mascarpone</li>
-      <li>500 gr. nata montar o vegetal</li>
-      <li>1 cda. sopera harina normal de trigo o maizena (Unos 20 gr.)</li>
-      <li>200 gr. azúcar</li>
+      <li>500 gr. de queso para untar (o puedes usar mitad mascarpone, mitad queso para untar). No poner todo de mascarpone</li>
+      <li>500 gr. de nata para montar o nata vegetal</li>
+      <li>1 cda. sopera harina normal de trigo o maicena (Aprox. 20 gr.)</li>
+      <li>200 gr. de azúcar</li>
       <li>4 huevos L</li>
-      <li>1 cta. vainilla (Opcional)</li>
+      <li>1 cta. de vainilla (Opcional)</li>
     </ul>
   </div>
 </div>
 
 ## MÉTODO
 
-1. Precalentar el horno a 220º.
-2. Triturar todos los ingredientes 20 seg. vel.5. Volcar sobre un molde engrasado o forrado con papel de hornear engrasado, de unos 20-23 cm.
-3. Bajar el horno a 200º, y hornear unos 50 a 60 minutos. Si véis que se dora mucho (Aunque esta tarta debe de quedar bien doradita), poner en los últimos minutos papel encima. Pinchar con aguja, si sale limpia ya está. Apagar el horno, entreabrir la puerta y dejar unos 15 minutos dentro.
-4. Llevar a la nevera unas horas cuando esté templada. Desmoldar bien fría.
+1. Precalienta el horno a 220 grados Celsius.
+2. En la Thermomix, mezcla todos los ingredientes durante 20 segundos a velocidad 5. Vierte la mezcla en un molde previamente engrasado o forrado con papel de hornear engrasado, de unos 20-23 cm de diámetro.
+3. Reduce la temperatura del horno a 200 grados Celsius y hornea entre 50 y 60 minutos. Si notas que se está dorando demasiado (aunque la tarta debe quedar bien dorada), cubre con papel de aluminio en los últimos minutos. Para verificar si está lista, pincha con un palillo: si sale limpio, está lista. Apaga el horno, deja la puerta entreabierta y deja reposar dentro durante unos 15 minutos.
+4. Una vez templada, refrigera durante varias horas antes de desmoldarla y servirla bien fría.
 
-> Sube mucho y después se baja, es normal. En caliente está muy “temblona”, al enfriar ya queda perfecta.
-
+> Es normal que la tarta suba mucho durante la cocción y luego se asiente al enfriarse. Cuando está caliente, puede parecer un poco temblorosa, pero al enfriarse adquiere la consistencia perfecta.
 
 
 

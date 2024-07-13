@@ -1,14 +1,17 @@
 ---
-date: 2024-07-12
+date: 2024-07-13
 layout: post
-title: Canelones de carrillera y foie, con pasta casera
-subtitle: Un clásico italiano con un toque gourmet español que te encantará.
-description: Canelones rellenos de carrillera de cerdo, cebolla caramelizada y foie, cubiertos con bechamel y pecorino romano, servidos sobre una cama de demi-glace.
-image: https://github.com/user-attachments/assets/c727c2e1-9797-49b0-9ca0-aa23d14ec2fc
-optimized_image: https://github.com/user-attachments/assets/c727c2e1-9797-49b0-9ca0-aa23d14ec2fc
-category: platos-principales
+title: Tarta de queso de La Viña
+subtitle: Deléitate con el sabor clásico de la tarta de queso de la Viña, hecha en Thermomix
+description: Tarta de queso en Thermomix
+image: https://github.com/user-attachments/assets/9a40774f-5186-44b0-9954-5afa85d3deda
+optimized_image: https://github.com/user-attachments/assets/ddf1713e-4565-42b0-aa97-3b304be19a85
+category: postres
+tags:
+  - Thermomix
+  - Tartas
+  - Queso
 author: ernestovazquez
----
 
 La tarta de queso de La Viña es un clásico que no puede faltar en tu repertorio de postres. Con su textura cremosa y su sabor delicado, conquista a todos los paladares. Aprende a prepararla con esta receta fácil y disfruta de un postre irresistible.
 

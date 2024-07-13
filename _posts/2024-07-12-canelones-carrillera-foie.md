@@ -56,11 +56,6 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
       <li>1 huevo L</li>
       <li>1 yema</li>
     </ul>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
     <h3>Bechamel</h3>
     <ul>
       <li>40 g de harina de trigo</li>
@@ -68,25 +63,6 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
       <li>750 ml de leche caliente</li>
       <li>Nuez moscada</li>
       <li>Sal</li>
-    </ul>
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <h3>Canelones</h3>
-    <ul>
-      <li>4 carilleras de cerdo (1 kg)</li>
-      <li>3 cebollas grandes</li>
-      <li>1 zanahoria grande</li>
-      <li>2 tomates maduros</li>
-      <li>3 dientes de ajo</li>
-      <li>Sal y pimienta negra</li>
-      <li>1 cucharada de concentrado de tomate</li>
-      <li>1 chorrito de Pedro Ximénez</li>
-      <li>500 ml de vino blanco (verdejo)</li>
-      <li>500 ml de caldo (pref. de ternera)</li>
-      <li>1 hoja de laurel</li>
-      <li>1 ramillete de tomillo</li>
-      <li>120 g de foie</li>
-      <li>Pecorino romano / parmigiano reggiano</li>
     </ul>
   </div>
 </div>

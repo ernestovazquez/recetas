@@ -28,6 +28,8 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
 
 ## Ingredientes
 
+<div class="ingredients-columns">
+<div class="column">
 ### Canelones
 - 4 carrilleras de cerdo (1 kg)
 - 3 cebollas grandes
@@ -44,12 +46,14 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
 - 120 g de foie
 - Pecorino romano / parmigiano reggiano
 
+<div class="column">
 ### Pasta fresca de semolina
 - 60 g de harina de fuerza
 - 60 g de semolina de trigo (sustituible por harina de fuerza)
 - 1 huevo L
 - 1 yema
 
+<div class="column">
 ### Bechamel
 - 40 g de harina de trigo
 - 40 g de mantequilla

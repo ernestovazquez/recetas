@@ -1,5 +1,5 @@
 ---
-date: 2024-07-12
+date: 2024-07-11
 layout: post
 title: Tarta de queso de La Viña
 subtitle: Deléitate con el sabor clásico de la tarta de queso de la Viña, hecha en Thermomix

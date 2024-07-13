@@ -26,6 +26,25 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
 - **Tiempo activo:** 3 horas
 - **Cantidad:** 12 canelones (4 personas)
 
+## ingr tabla
+
+| **Canelones** | **Pasta Fresca de Semolina** |
+|---------------|------------------------------|
+| 4 carilleras de cerdo (1 kg) | 60 g de harina de fuerza |
+| 3 cebollas grandes | 60 g de semolina de trigo (sustituible por harina de fuerza) |
+| 1 zanahoria grande | 1 huevo L |
+| 2 tomates maduros | 1 yema |
+| 3 dientes de ajo | |
+| Sal y pimienta negra | |
+| 1 cucharada de concentrado de tomate | |
+| 1 chorrito de Pedro Ximénez | |
+| 500 ml de vino blanco (verdejo) | |
+| 500 ml de caldo (pref. de ternera) | |
+| 1 hoja de laurel | |
+| 1 ramillete de tomillo | |
+| 120 g de foie | |
+| Pecorino romano / parmigiano reggiano | |
+
 ## Ingredientes
 
 <div style="display: flex; justify-content: space-between;">

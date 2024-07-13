@@ -4,8 +4,8 @@ layout: post
 title: Canelones de carrillera y foie, con pasta casera
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
+image: https://github.com/user-attachments/assets/c727c2e1-9797-49b0-9ca0-aa23d14ec2fc
+optimized_image: https://github.com/user-attachments/assets/c727c2e1-9797-49b0-9ca0-aa23d14ec2fc
 category: platos-principales
 author: ernestovazquez
 ---

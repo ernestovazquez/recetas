@@ -10,118 +10,95 @@ category: platos-principales
 author: ernestovazquez
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Las placas de pasta suelen recordarle a todo el mundo a la famosa y popular lasaña, pero a mí la primera imagen que se me viene a la cabeza cuando las veo es la de los canelones, que guardan un especial lugar en mi corazón y probablemente en el de todos los españoles. Es un plato originalmente italiano, pero que fue adoptado por comerciantes catalanes y después interpretado por sus cocineros, convirtiéndose en uno de los platos más famosos de la región, y también de toda la Península.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Estos están rellenos de carrillera de cerdo, cebolla caramelizada y foie, todo ello rodeado con pasta casera de semolina de trigo, cubiertos con bechamel y pecorino romano; y servidos encima de un demi-glace intenso y sabroso. Vamos, toda una delicatessen.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Aunque yo he usado carrillera de cerdo, pueden hacerse con carrillera de ternera, aunque el tiempo de cocción de las mismas variará de 1 hora y media a 4. Puedes omitir el foie si estás a final de mes, pero eleva el plato a otro nivel, y el queso puedes elegirlo a tu gusto, otras opciones maravillosas son parmigiano reggiano o manchego curado.
 
-## Inline HTML elements
+La pasta puede comprarse ya hecha, pero hacerla da un resultado absolutamente maravilloso, y es muy satisfactorio hacer todo el plato completamente desde cero. Yo hice pasta fresca de semolina, que es una harina de trigo más gruesa y que le da una textura más al dente a las placas. Si no puedes encontrarla, sustitúyela por más harina de fuerza, y listo.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Instagram](https://www.instagram.com/jmongebravo) en el que tiene recetas maravillosas.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Ernesto Vázquez</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+## Información de la receta
+- **Dificultad:** Intermedia
+- **Tiempo de preparación:** 4 horas
+- **Tiempo activo:** 3 horas
+- **Cantidad:** 12 canelones (4 personas)
 
-Most of these elements are styled by browsers with few modifications on our part.
+## Ingredientes
 
-# Heading 1
+### Canelones
+- 4 carrilleras de cerdo (1 kg)
+- 3 cebollas grandes
+- 1 zanahoria grande
+- 2 tomates maduros
+- 3 dientes de ajo
+- Sal y pimienta negra
+- 1 cucharada de concentrado de tomate
+- 1 chorrito de Pedro Ximénez
+- 500 ml de vino blanco (verdejo)
+- 500 ml de caldo (preferiblemente de ternera)
+- 1 hoja de laurel
+- 1 ramillete de tomillo
+- 120 g de foie
+- Pecorino romano / parmigiano reggiano
 
-## Heading 2
+### Pasta fresca de semolina
+- 60 g de harina de fuerza
+- 60 g de semolina de trigo (sustituible por harina de fuerza)
+- 1 huevo L
+- 1 yema
 
-### Heading 3
+### Bechamel
+- 40 g de harina de trigo
+- 40 g de mantequilla
+- 750 ml de leche caliente
+- Nuez moscada
+- Sal
 
-#### Heading 4
+## Método
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+### Canelones de Carrillera y Foie
+1. Pica la zanahoria, una cebolla y los ajos. Quítale la pulpa y las pepitas al tomate y pícalo. Reserva todo.
+2. Calienta una cacerola grande sobre fuego alto, añade las carrilleras y salpiméntalas. Márcalas por los dos lados, unos 2 minutos cada uno, hasta que estén profundamente doradas.
+3. Saca las carrilleras, baja el fuego a medio alto y añade la zanahoria, la cebolla y el ajo, junto a una pizca de sal. Rehoga las verduras durante 4 minutos, hasta que la cebolla comience a ser translúcida por los bordes.
+4. Retira a un lado las verduras y añade el concentrado de tomate. Tuéstalo durante 10 segundos.
+5. Añade el tomate picado y sofríe durante 1 minuto.
+6. Añade el chorrito de Pedro Ximénez y evapóralo durante 1 minuto.
+7. Devuelve las carrilleras a la cacerola, junto a la hoja de laurel, el ramillete de tomillo, el vino blanco y el caldo de ternera.
+8. Llévalo a ebullición, baja el fuego a bajo, y guísalas, cubiertas, de 1h 30 a 2, o hasta que no opongan resistencia a ser atravesadas con algo no afilado.
 
-## Code
+### Pasta fresca de semolina
+1. En un bol, mezcla la harina de fuerza, la semolina de trigo y la sal.
+2. Transfiere la mezcla a una encimera y dale forma de volcán.
+3. Casca el huevo y añade la yema en el cráter. Bate con un tenedor, añadiendo la harina poco a poco. Cuando se desmorone, continúa amasando con las manos, hasta que la masa retome la forma al apretarla con un dedo, unos 4 minutos.
+4. Envuelve la masa con papel film y déjala reposar 30 minutos a temperatura ambiente.
+5. Estira la bola de masa, dándole forma de óvalo. Dóblala en tres, como si fuera una carta, dale la vuelta y vuelve a estirarla a lo largo. Repite este proceso dos veces más.
+6. Pasa la placa por la máquina de pasta, estrechando su grosor un número cada vez, hasta que llegues al más fino.
+7. Corta la pasta en rectángulos de 10x14 cm aproximadamente y resérvala.
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+### Montaje
+1. Salpimienta el foie por ambos lados y márcalo en una sartén sobre fuego alto.
+2. Transfiere el foie a un bol y machácalo con un tenedor, haciendo una pasta.
+3. Sobre una hoja de papel film, haz una barrita de foie y enróllalo, dándole forma cilíndrica. Repite con todo el foie y mételo al congelador.
+4. Corta las dos cebollas restantes en juliana, ponlas en una sartén con aceite de oliva y sal, y sofríelas sobre fuego alto unos 45 minutos, hasta que estén profundamente caramelizadas.
+5. A partir de la hora y media de cocción, comienza a comprobar las carrilleras y ve sacándolas conforme estén listas.
+6. Una vez estén todas listas, cuela el resto del contenido de la cacerola, exprimiendo hasta la última gota de caldo.
+7. Transfiere el caldo a una sartén sobre fuego medio alto y redúcelo hasta la mitad de su volumen aproximadamente. Debería tener una consistencia espesa.
+8. Pica o deshilacha las carrilleras y transfiérelas a un bol, junto a la cebolla caramelizada y la mitad de la reducción de caldo. Mezcla todo y resérvalo.
+9. Cuece las placas de pasta y ponlas sobre un trapo limpio.
+10. Reparte todo el relleno equitativamente en todas las placas de pasta, y luego coloca un trozo de foie en cada uno.
+11. Enróllalos y resérvalos.
 
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
+### Bechamel
+1. En una sartén sobre fuego medio-alto, añade la mantequilla y derrítela.
+2. Cuando burbujee, añade la harina, mézclalo y cocínalo hasta que no huela a harina cruda, 1 minuto y medio más o menos.
+3. Añade poco a poco la leche caliente, mezclando constantemente, hasta que hayas usado toda la leche y la bechamel esté lista.
+4. Sazónala con nuez moscada recién molida, y sal.
+5. Cubre el fondo de una fuente con una capa fina de bechamel. Coloca los canelones y cúbrelos con el resto de bechamel.
+6. Ralla abundante queso por encima de los canelos y mételos a un horno a 200 grados, calor por arriba y por abajo, durante 15 minutos, o hasta que estén gratinados por encima.
+7. Sirve cada ración de canelones sobre una cama de la reducción de caldo.
 
 
 

@@ -31,7 +31,7 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
     <h3 style="text-transform: uppercase;">Canelones</h3>
-    <ul style="margin-bottom: 0;">
+    <ul style="margin-bottom: 0; padding-inline-start: 0;">
       <li>4 carilleras de cerdo (1 kg)</li>
       <li>3 cebollas grandes</li>
       <li>1 zanahoria grande</li>
@@ -50,14 +50,14 @@ La receta original de estos canelones es de Joaquín Monge, dejo aquí su [Insta
   </div>
   <div style="flex: 1; margin-left: 20px;">
     <h3 style="text-transform: uppercase;">Pasta Fresca de Semolina</h3>
-    <ul style="margin-bottom: 0;">
+    <ul style="margin-bottom: 0; padding-inline-start: 0;">
       <li>60 g de harina de fuerza</li>
       <li>60 g de semolina de trigo (sustituible por harina de fuerza)</li>
       <li>1 huevo L</li>
       <li>1 yema</li>
     </ul>
     <h3 style="text-transform: uppercase;">Bechamel</h3>
-    <ul style="margin-bottom: 0;">
+    <ul style="margin-bottom: 0; padding-inline-start: 0;">
       <li>40 g de harina de trigo</li>
       <li>40 g de mantequilla</li>
       <li>750 ml de leche caliente</li>

@@ -52,7 +52,7 @@ Esta versión de mojo picón está ligeramente adaptada de la receta original pa
 ## MÉTODO
 
 1. Calentar el aceite:
-Coloca una sartén a fuego alto y añade un hilo de aceite de oliva virgen extra. Deja que el aceite se caliente bien antes de añadir los ingredientes.
+Coloca una sartén a fuego alto y añade un pequeño hilo de aceite de oliva virgen extra. Deja que el aceite se caliente bien antes de añadir los ingredientes.
 
 2. Cortar y cocinar el ajo:
 Corta los ajos en láminas finas. Cuando el aceite esté bien caliente, añádelos a la sartén y sofríelos durante 1-2 minutos, removiendo constantemente para evitar que se peguen. Asegúrate de que queden dorados, pero no permitas que se quemen.
@@ -77,11 +77,11 @@ Vierte un chorro de jugo de limón en la sartén, mezcla bien y sazona con sal y
 Retira la sartén del fuego y deja que la mezcla repose unos minutos. Luego, transfiere todo a un recipiente adecuado para triturar con la batidora. Tritura hasta obtener una consistencia suave, pero no añadas agua; los vegetales ya contienen suficiente líquido para crear la salsa.
 
 9. Ajustar la textura y emulsionar (opcional):
-Si prefieres una textura más líquida, continúa batiendo un poco más tiempo. Para un toque más cremoso, añade un chorrito de aceite de oliva virgen extra mientras bates, lo que ayudará a emulsionar la salsa. Si prefieres una opción más ligera, omite este paso.
+Si prefieres una textura más líquida, continúa batiendo un poco más tiempo.
+> Para un toque más cremoso, añade un chorrito de aceite de oliva virgen extra mientras bates, lo que ayudará a emulsionar la salsa. Si prefieres una opción menos calórica, omite esta parte.
 
-10. Servir:
+11. Servir:
 Una vez alcanzada la consistencia deseada, vierte el mojo picón en el recipiente de tu elección. Sirve inmediatamente o guárdalo en la nevera para utilizarlo más tarde.
 
-> Menos calorías: Si deseas un mojo más suave pero no quieres añadir aceite extra, simplemente ajusta la cantidad de líquido al triturar, añadiendo un poco más de jugo de limón o el agua natural que sueltan las verduras.
 > Reposo: El mojo picón mejora con el tiempo, así que si puedes, déjalo reposar unas horas antes de servir para que los sabores se intensifiquen.
 

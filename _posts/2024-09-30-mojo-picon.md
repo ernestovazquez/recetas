@@ -62,7 +62,6 @@ Incorpora la guindilla de Cayena entera o partida si prefieres más intensidad e
 
 4. Preparar y cocinar el pimiento:
 Lava el pimiento rojo, retira el pedúnculo y las semillas, córtalo en tiras o cubos pequeños. Agrégalo a la sartén y cocina a fuego medio, removiendo ocasionalmente hasta que esté ligeramente tierno, unos 4-5 minutos.
-
 > Textura más espesa: Si prefieres una salsa más espesa, puedes añadir una rebanada de pan troceada a la sartén. Cocínala junto con el pimiento para que absorba los jugos y aporte más cuerpo a la salsa.
 
 5. Agregar el tomate:

@@ -1,5 +1,5 @@
 ---
-date: 2024-07-13
+date: 2024-09-30
 layout: post
 title: Mojo Picón Casero en Sartén
 subtitle: Salsa canaria tradicional con un toque casero, lista en minutos.

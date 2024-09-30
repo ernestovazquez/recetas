@@ -55,13 +55,13 @@ Esta versión de mojo picón está ligeramente adaptada de la receta original pa
 Coloca una sartén a fuego alto y añade un hilo de aceite de oliva virgen extra. Deja que el aceite se caliente bien antes de añadir los ingredientes.
 
 2. Cortar y cocinar el ajo:
-Corta los ajos en láminas finas. Cuando el aceite esté bien caliente, añádelos a la sartén y sofríelos durante 1-2 minutos, removiendo constantemente para evitar que se peguen. Asegúrate de que queden dorados, pero no permitas que se quemen. Si has usado poco aceite, ve agregando pequeñas cantidades de agua a la sartén para evitar que los pimientos se quemen durante la cocción.
+Corta los ajos en láminas finas. Cuando el aceite esté bien caliente, añádelos a la sartén y sofríelos durante 1-2 minutos, removiendo constantemente para evitar que se peguen. Asegúrate de que queden dorados, pero no permitas que se quemen.
 
 3. Añadir la guindilla:
 Incorpora la guindilla de Cayena entera o partida si prefieres más intensidad en el picante. Cocina un minuto más para que suelte su sabor.
 
 4. Preparar y cocinar el pimiento:
-Lava el pimiento rojo, retira el pedúnculo y las semillas, córtalo en tiras o cubos pequeños. Agrégalo a la sartén y cocina a fuego medio, removiendo ocasionalmente hasta que esté ligeramente tierno, unos 4-5 minutos.
+Lava el pimiento rojo, retira el pedúnculo y las semillas, córtalo en tiras o cubos pequeños. Agrégalo a la sartén y cocina a fuego medio, removiendo ocasionalmente hasta que esté ligeramente tierno, unos 4-5 minutos. Si has usado poco aceite, ve agregando pequeñas cantidades de agua a la sartén para evitar que los pimientos se quemen durante la cocción.
 > Textura más espesa: Si prefieres una salsa más espesa, puedes añadir una rebanada de pan troceada a la sartén. Cocínala junto con el pimiento para que absorba los jugos y aporte más cuerpo a la salsa.
 
 5. Agregar el tomate:

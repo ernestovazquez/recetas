@@ -13,7 +13,7 @@ tags:
 author: ernestovazquez
 ---
 
-El mojo picón es una salsa típica de las Islas Canarias, reconocida por su intenso sabor y su toque ligeramente picante. Hecha a base de ajo, pimiento rojo, especias y limón, se caracteriza por una textura suave y cremosa que la convierte en el acompañamiento perfecto para papas arrugadas, carnes a la parrilla o pescados. Su combinación de ingredientes ofrece un equilibrio de sabores entre lo ahumado, lo picante y lo ácido, ideal para quienes buscan una salsa versátil y llena de personalidad en su cocina.
+El mojo picón es una salsa típica de las Islas Canarias, reconocida por su intenso sabor y su toque ligeramente picante. Se caracteriza por una textura suave y cremosa que la convierte en el acompañamiento perfecto para papas arrugadas, carnes a la parrilla o pescados. Su combinación de ingredientes ofrece un equilibrio de sabores entre lo ahumado, lo picante y lo ácido, ideal para quienes buscan una salsa versátil y llena de personalidad en su cocina.
 
 Esta versión de mojo picón está ligeramente adaptada de la receta original para facilitar su preparación. En lugar de usar vinagre, optamos por jugo de limón, que aporta frescura y acidez de manera más suave. Además, los pimientos no se asan como en la receta tradicional, sino que se cocinan directamente en la sartén, lo que acelera el proceso y permite hacer la salsa en cualquier momento, sin necesidad de horno. Estos cambios mantienen el sabor auténtico, pero hacen que sea más rápido y sencillo de preparar.
 
@@ -36,12 +36,12 @@ Esta versión de mojo picón está ligeramente adaptada de la receta original pa
   <div style="flex: 1; margin-right: 20px;">
     <ul style="margin-bottom: 0;">
       <li>2 dientes de ajo</li>
-      <li>500 gr. de nata para montar o nata vegetal</li>
       <li>1 guindilla de Cayena</li>
       <li>1 pimiento rojo</li>
       <li>½ cucharada sopera de pimentón dulce</li>
       <li>½ cucharada sopera de pimentón picante</li>
       <li>1 tomate</li>
+      <li>1 cucharada pequeña de comino</li>
       <li>Jugo de 1 limón</li>
       <li>Sal al gusto</li>
       <li>Pimienta al gusto</li>

@@ -35,13 +35,14 @@ Además de su popularidad, la salsa brava refleja la simplicidad y la intensidad
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 20px;">
     <ul style="margin-bottom: 0;">
-      <li>2 cucharadas de aceite de oliva virgen extra</li>
-      <li>1 cucharada de harina de trigo</li>
-      <li>1 cucharadita de pimentón dulce</li>
-      <li>1 cucharadita de pimentón picante</li>
-      <li>250 ml de caldo de pollo (o caldo de verduras para opción vegetariana)</li>
-      <li>1 cucharadita de vinagre de vino</li>
-      <li>Sal al gusto</li>
+      <li>1 cebolla mediana, picada</li>
+      <li>40 ml de aceite de oliva</li>
+      <li>25 g de harina de trigo (todo uso)</li>
+      <li>1 cucharada generosa de pimentón dulce</li>
+      <li>1 cucharada de pimentón picante</li>
+      <li>½ cucharadita de pimienta blanca molida</li>
+      <li>Sal, al gusto (ten en cuenta que el caldo de pollo ya puede llevar sal)</li>
+      <li>600 ml de caldo de pollo</li>
     </ul>
   </div>
 </div>

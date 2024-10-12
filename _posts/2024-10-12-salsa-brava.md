@@ -4,8 +4,8 @@ layout: post
 title: Salsa Brava Madrileña
 subtitle: La auténtica salsa brava para tus patatas y tapas caseras.
 description: La salsa brava es un clásico de la gastronomía madrileña, conocida por su toque picante y su textura espesa, perfecta para acompañar patatas bravas y otras tapas.
-image: https://github.com/user-attachments/assets/a6e15621-ee19-49f6-ae45-f963f1f02845
-optimized_image: https://github.com/user-attachments/assets/a6e15621-ee19-49f6-ae45-f963f1f02845
+image: https://github.com/user-attachments/assets/4f500679-0924-4349-b75a-b23ed362e298
+optimized_image: https://github.com/user-attachments/assets/4f500679-0924-4349-b75a-b23ed362e298
 category: salsas
 tags:
   - Salsas

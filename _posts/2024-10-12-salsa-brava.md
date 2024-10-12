@@ -64,4 +64,5 @@ Además de su popularidad, la salsa brava refleja la simplicidad y la intensidad
 
 7. Reposar: Deja reposar la salsa unos minutos antes de servir para que los sabores se mezclen bien y espese un poco más al enfriarse.
 
+
 > La salsa brava mejora al día siguiente, por lo que puedes prepararla con antelación para obtener un sabor más profundo y equilibrado.

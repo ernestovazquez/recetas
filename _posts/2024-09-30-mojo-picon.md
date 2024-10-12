@@ -62,7 +62,8 @@ Incorpora la guindilla de Cayena entera o partida si prefieres más intensidad e
 
 4. Preparar y cocinar el pimiento:
 Lava el pimiento rojo, retira el pedúnculo y las semillas, córtalo en tiras o cubos pequeños. Agrégalo a la sartén y cocina a fuego medio, removiendo ocasionalmente hasta que esté ligeramente tierno, unos 4-5 minutos. Si has usado poco aceite, ve agregando pequeñas cantidades de agua a la sartén para evitar que los pimientos se quemen durante la cocción.
-> Textura más espesa: Si prefieres una salsa más espesa, puedes añadir una rebanada de pan troceada a la sartén. Cocínala junto con el pimiento para que absorba los jugos y aporte más cuerpo a la salsa.
+
+   > Textura más espesa: Si prefieres una salsa más espesa, puedes añadir una rebanada de pan troceada a la sartén. Cocínala junto con el pimiento para que absorba los jugos y aporte más cuerpo a la salsa.
 
 5. Agregar el tomate:
 Corta el tomate en cubos pequeños y agrégalo al pimiento en la sartén. Cocina otros 3-4 minutos hasta que el tomate se deshaga parcialmente y suelte sus jugos, pero sin perder totalmente su forma.
@@ -78,11 +79,13 @@ Retira la sartén del fuego y deja que la mezcla repose unos minutos. Luego, tra
 
 9. Ajustar la textura y emulsionar (opcional):
 Si prefieres una textura más líquida, continúa batiendo un poco más tiempo.
-> Para un toque más cremoso, añade un chorrito de aceite de oliva virgen extra mientras bates, lo que ayudará a emulsionar la salsa. Si prefieres una opción menos calórica, omite esta parte.
+
+   > Para un toque más cremoso, añade un chorrito de aceite de oliva virgen extra mientras bates, lo que ayudará a emulsionar la salsa. Si prefieres una opción menos calórica, omite esta parte.
 
 11. Servir:
 Una vez alcanzada la consistencia deseada, vierte el mojo picón en el recipiente de tu elección. Sirve inmediatamente o guárdalo en la nevera para utilizarlo más tarde.
-> Si deseas realzar el sabor del mojo picón, puedes añadir 2 cucharadas de aceite de oliva virgen extra por encima al final y mezclar bien. Esto intensificará el sabor y le dará un color más brillante y apetitoso. Si prefieres una opción más ligera, puedes omitir este paso sin afectar demasiado el sabor final.
+
+   > Si deseas realzar el sabor del mojo picón, puedes añadir 2 cucharadas de aceite de oliva virgen extra por encima al final y mezclar bien. Esto intensificará el sabor y le dará un color más brillante y apetitoso. Si prefieres una opción más ligera, puedes omitir este paso sin afectar demasiado el sabor final.
 
 > Reposo: El mojo picón mejora con el tiempo, así que si puedes, déjalo reposar unas horas antes de servir para que los sabores se intensifiquen.
 

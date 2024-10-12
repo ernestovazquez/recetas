@@ -56,7 +56,6 @@ Además de su popularidad, la salsa brava refleja la simplicidad y la intensidad
 3. Añadir la harina: Incorpora la harina de trigo a la sartén y mezcla bien. Cocina con el fuego al mínimo durante 2-3 minutos, removiendo constantemente, para que la harina pierda su sabor crudo y empiece a espesar la mezcla sin que se formen grumos.
 
 4. Añadir el caldo: Vuelve a poner la sartén al fuego y vierte el caldo de pollo poco a poco, removiendo continuamente para evitar que se formen grumos. Cocina a fuego medio-alto durante 10-15 minutos, hasta que la salsa espese y adquiera una textura suave y cremosa.
-
 > Para evitar grumos, asegúrate de que el caldo esté bien caliente antes de añadirlo a la mezcla. Esto ayuda a que la harina se disuelva mejor y de forma más rápida.
 
 5. Rectificar sabor: Prueba la salsa y ajusta de sal si es necesario, teniendo en cuenta que el caldo ya contiene sal. Si quieres un toque más picante, puedes añadir una pizca extra de pimentón picante o pimienta blanca al gusto.

@@ -51,38 +51,38 @@ Esta versión de mojo picón está ligeramente adaptada de la receta original pa
 
 ## MÉTODO
 
-1. Calentar el aceite:
+1. **Calentar el aceite:**
 Coloca una sartén a fuego alto y añade un pequeño hilo de aceite de oliva virgen extra. Deja que el aceite se caliente bien antes de añadir los ingredientes.
 
-2. Cortar y cocinar el ajo:
+2. **Cortar y cocinar el ajo:**
 Corta los ajos en láminas finas. Cuando el aceite esté bien caliente, añádelos a la sartén y sofríelos durante 1-2 minutos, removiendo constantemente para evitar que se peguen. Asegúrate de que queden dorados, pero no permitas que se quemen.
 
-3. Añadir la guindilla:
+3. **Añadir la guindilla:**
 Incorpora la guindilla de Cayena entera o partida si prefieres más intensidad en el picante. Cocina un minuto más para que suelte su sabor.
 
-4. Preparar y cocinar el pimiento:
+4. **Preparar y cocinar el pimiento:**
 Lava el pimiento rojo, retira el pedúnculo y las semillas, córtalo en tiras o cubos pequeños. Agrégalo a la sartén y cocina a fuego medio, removiendo ocasionalmente hasta que esté ligeramente tierno, unos 4-5 minutos. Si has usado poco aceite, ve agregando pequeñas cantidades de agua a la sartén para evitar que los pimientos se quemen durante la cocción.
 
    > Textura más espesa: Si prefieres una salsa más espesa, puedes añadir una rebanada de pan troceada a la sartén. Cocínala junto con el pimiento para que absorba los jugos y aporte más cuerpo a la salsa.
 
-5. Agregar el tomate:
+5. **Agregar el tomate:**
 Corta el tomate en cubos pequeños y agrégalo al pimiento en la sartén. Cocina otros 3-4 minutos hasta que el tomate se deshaga parcialmente y suelte sus jugos, pero sin perder totalmente su forma.
 
-6. Incorporar el pimentón y el comino:
+6. **Incorporar el pimentón y el comino:**
 Cuando el pimiento y el tomate estén bien cocidos, añade el pimentón dulce y el pimentón picante. Remueve constantemente durante 1-2 minutos para tostar ligeramente las especias, cuidando de no quemarlas. Añade el comino en polvo y mezcla bien.
 
-7. Añadir el jugo de limón y sazonar:
+7. **Añadir el jugo de limón y sazonar:**
 Vierte un chorro de jugo de limón en la sartén, mezcla bien y sazona con sal y pimienta al gusto. Cocina a fuego bajo durante 1-2 minutos más, hasta que el tomate esté ligeramente frito y todos los ingredientes estén bien integrados.
 
-8. Triturar la mezcla:
+8. **Triturar la mezcla:**
 Retira la sartén del fuego y deja que la mezcla repose unos minutos. Luego, transfiere todo a un recipiente adecuado para triturar con la batidora. Tritura hasta obtener una consistencia suave, pero no añadas agua; los vegetales ya contienen suficiente líquido para crear la salsa.
 
-9. Ajustar la textura y emulsionar (opcional):
+9. **Ajustar la textura y emulsionar (opcional):**
 Si prefieres una textura más líquida, continúa batiendo un poco más tiempo.
 
    > Para un toque más cremoso, añade un chorrito de aceite de oliva virgen extra mientras bates, lo que ayudará a emulsionar la salsa. Si prefieres una opción menos calórica, omite esta parte.
 
-11. Servir:
+11. **Servir:**
 Una vez alcanzada la consistencia deseada, vierte el mojo picón en el recipiente de tu elección. Sirve inmediatamente o guárdalo en la nevera para utilizarlo más tarde.
    > Si deseas realzar el sabor del mojo picón, puedes añadir 2 cucharadas de aceite de oliva virgen extra por encima al final y mezclar bien. Esto intensificará el sabor y le dará un color más brillante y apetitoso. Si prefieres una opción más ligera, puedes omitir este paso sin afectar demasiado el sabor final.
 

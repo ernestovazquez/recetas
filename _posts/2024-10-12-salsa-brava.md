@@ -49,20 +49,20 @@ Además de su popularidad, la salsa brava refleja la simplicidad y la intensidad
 
 ## MÉTODO
 
-1. Sofreír la cebolla: En una sartén grande, calienta el aceite de oliva a fuego medio. Añade la cebolla picada y una pizca de sal al gusto para ayudar a que suelte su agua y se ablande más rápido. Sofríe lentamente durante 8-10 minutos, removiendo de vez en cuando, hasta que la cebolla esté bien pochada y ligeramente dorada. Este paso es clave para darle profundidad de sabor a la salsa.
+1. **Sofreír la cebolla:** En una sartén grande, calienta el aceite de oliva a fuego medio. Añade la cebolla picada y una pizca de sal al gusto para ayudar a que suelte su agua y se ablande más rápido. Sofríe lentamente durante 8-10 minutos, removiendo de vez en cuando, hasta que la cebolla esté bien pochada y ligeramente dorada. Este paso es clave para darle profundidad de sabor a la salsa.
 
-2. Una vez la cebolla esté transparente, incorporar los pimentones y la pimienta: Retira la sartén del fuego brevemente y añade el pimentón dulce, el pimentón picante y la pimienta blanca. Remueve rápidamente con el fuego al mínimo durante 1 minuto para que los pimentones no se quemen y se integren bien con la cebolla, aportando su sabor y color a la mezcla.
+2. **Una vez la cebolla esté transparente, incorporar los pimentones y la pimienta:** Retira la sartén del fuego brevemente y añade el pimentón dulce, el pimentón picante y la pimienta blanca. Remueve rápidamente con el fuego al mínimo durante 1 minuto para que los pimentones no se quemen y se integren bien con la cebolla, aportando su sabor y color a la mezcla.
 
-3. Añadir la harina: Incorpora la harina de trigo a la sartén y mezcla bien. Cocina con el fuego al mínimo durante 2-3 minutos, removiendo constantemente, para que la harina pierda su sabor crudo y empiece a espesar la mezcla sin que se formen grumos.
+3. **Añadir la harina:** Incorpora la harina de trigo a la sartén y mezcla bien. Cocina con el fuego al mínimo durante 2-3 minutos, removiendo constantemente, para que la harina pierda su sabor crudo y empiece a espesar la mezcla sin que se formen grumos.
 
-4. Añadir el caldo: Vuelve a poner la sartén al fuego y vierte el caldo de pollo poco a poco, removiendo continuamente para evitar que se formen grumos. Cocina a fuego medio-alto durante 10-15 minutos, hasta que la salsa espese y adquiera una textura suave y cremosa.
+4. **Añadir el caldo:** Vuelve a poner la sartén al fuego y vierte el caldo de pollo poco a poco, removiendo continuamente para evitar que se formen grumos. Cocina a fuego medio-alto durante 10-15 minutos, hasta que la salsa espese y adquiera una textura suave y cremosa.
 
    > Para evitar grumos, asegúrate de que el caldo esté bien caliente antes de añadirlo a la mezcla. Esto ayuda a que la harina se disuelva mejor y de forma más rápida.
 
-5. Rectificar sabor: Prueba la salsa y ajusta de sal si es necesario, teniendo en cuenta que el caldo ya contiene sal. Si quieres un toque más picante, puedes añadir una pizca extra de pimentón picante o pimienta blanca al gusto.
+5. **Rectificar sabor:** Prueba la salsa y ajusta de sal si es necesario, teniendo en cuenta que el caldo ya contiene sal. Si quieres un toque más picante, puedes añadir una pizca extra de pimentón picante o pimienta blanca al gusto.
 
-6. Triturar la salsa: Si prefieres una salsa más fina y suave, puedes pasarla por una batidora de mano hasta obtener la textura deseada. Esto dará como resultado una salsa más homogénea, ideal para un acabado más elegante.
+6. **Triturar la salsa:** Si prefieres una salsa más fina y suave, puedes pasarla por una batidora de mano hasta obtener la textura deseada. Esto dará como resultado una salsa más homogénea, ideal para un acabado más elegante.
 
-7. Reposar: Deja reposar la salsa unos minutos antes de servir para que los sabores se mezclen bien y espese un poco más al enfriarse.
+7. **Reposar:** Deja reposar la salsa unos minutos antes de servir para que los sabores se mezclen bien y espese un poco más al enfriarse.
 
 > La salsa brava mejora al día siguiente, por lo que puedes prepararla con antelación para obtener un sabor más profundo y equilibrado.

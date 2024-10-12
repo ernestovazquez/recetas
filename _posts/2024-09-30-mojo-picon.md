@@ -84,7 +84,6 @@ Si prefieres una textura más líquida, continúa batiendo un poco más tiempo.
 
 11. Servir:
 Una vez alcanzada la consistencia deseada, vierte el mojo picón en el recipiente de tu elección. Sirve inmediatamente o guárdalo en la nevera para utilizarlo más tarde.
-
    > Si deseas realzar el sabor del mojo picón, puedes añadir 2 cucharadas de aceite de oliva virgen extra por encima al final y mezclar bien. Esto intensificará el sabor y le dará un color más brillante y apetitoso. Si prefieres una opción más ligera, puedes omitir este paso sin afectar demasiado el sabor final.
 
 > Reposo: El mojo picón mejora con el tiempo, así que si puedes, déjalo reposar unas horas antes de servir para que los sabores se intensifiquen.
